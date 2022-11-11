@@ -28,6 +28,7 @@ twitter_username: _gribben_
 github_username:  mwgribben
 
 # Build settings
+theme: merlot
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
   - jekyll-feed
