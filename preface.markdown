@@ -10,7 +10,7 @@ I have avoided references to authorities as much as possible as this is a tireso
 
 Whilst it is not claimed that the book deals with everything involved, it is an attempt to present the subject simply, adequately and accurately.
 
-**Walter Citrine**
+**Walter Citrine**  
 October 1939
 
 *(Preface to the original 1939 edition)*
