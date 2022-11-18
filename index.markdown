@@ -2,7 +2,7 @@
 
 - [Preface](preface)
 - [Editors' Foreword](foreward)
-- [1 Introduction: the chairman's role](1_intro)
+- [1 Introduction: the chairman's role](1_introduction)
 - [2 Notice of meetings, quorom and agenda](2_preparation)
 - [3 About motions](3_motions)
 - [4 Debating a motion](4_debates)
