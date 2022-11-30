@@ -65,14 +65,30 @@ The following is a fairly typical agenda for a trade union branch meeting:
 
 ### Object of the agenda
 
-The main reasons...
+The main reasons for having an agenda are to make sure that no item of importance is omitted; to provide that business is dealt with in the proper order; and to warn all members about what will come before the meeting, thus preventing items being sprung upon them suddenly.
+
+If, as was recommended at the beginning of this chapter, a notice of the meeting setting out the agenda has been circulated in advance of the meeting by the secretary, then it is unnecessary to read the agenda to the meeting (although the chairman might make sure that every member has a copy, and the secretary should have spares available for those who have forgotten to bring their agenda). If no agenda has been circulated, immediately after opening the meeting the chairman should read the agenda to the meeting.
 
 ### Any other business
 
+Apart from letting everybody know what is to be discussed, this enables members to prepare to raise points under ‘Any Other Business’ which always comes towards the end of the agenda. At this point in the meeting, or at a convenient early stage, the chairman should ask members if any of them will want to raise any points under ‘Any Other Business’, and what these points are. The chairman should take these members' names and when ‘Any Other Business’ is reached he should call on them in the order he recorded their names. If at this point someone else who has not previously indicated his intention of doing so tries to raise a new matter, the chairman is perfectly entitled to rule that he may not do so. Insisting on advance notice in this way enables the chairman to adjust the timing of the meeting, which might otherwise over-run.
+
+‘Any Other Business’ should not be used to bring up controversial matters and if members try to use it to put forward motions for which they should have given notice, the chairman should rule that these motions should be placed on the agenda of the next meeting.
+
 ### Emergency motions
+
+However, ‘Any Other Business’ can be used to bring forward emergency motions. Such motions must concern issues which have arisen *after the agenda has been prepared* and which are *genuinely urgent* – in other words, that action needs to be taken before the next meeting. If the chairman is certain that the issue raised falls into this category (and experience suggests that most so-called emergency motions do not do so), he should take the emergency motion first under ‘Any Other Business’, allowing rather more time for it than would be usual under ‘Any Other Business’ as the subject will almost certaily be interesting and controversial. Like all other motions, emergency motions must be seconded (see X).
 
 ### Items not on the agenda
 
+If any member has put forward an item or given notice of motion, and this item is not on the agenda, he should inform the chairman before the start of the meeting if the agenda has been circulated in advance (or immediately after the agenda has been read). If the item has been omitted by a mistake, the chairman should announce that it has been added to the agenda.
+
 ### Timetable
 
+The chairman should have a timetable worked out before he goes into the meeting. Otherwise the meeting may spend a disproportionate amount of its time discussing trivial issues rather than more important business. If the agenda is a full one, it is the chairman's responsibility to make sure no time is wasted and once he feels that an issue has been adequately dealt with, he should secure the approval of members to progress to the next item. He can also take responsibility for suggesting to the meeting that it might defer considering matters which are minor or not urgent so that the meeting can give proper attention to the more important business. Even on important matters the chairman can suggest limiting the number of speakers and the length of speeches. Members will usually go along with him if time is short.
+
 ### Varying the order of the agenda
+
+Items should usually be taken in the order in which they appear on the agenda paper. However, the chairman can vary the order at his discretion, and if one individual (usually the secretary) is due to speak on several agenda items consecutively, it may be advisable to do so to avoid boring the members and to give the secretary a break. But where the order is varied, the chairman should always explain what he is going to do, and give the reasons for his decision. If he fails to do this, it may give rise to unreasonable suspicions amongst members.
+
+A member present at a meeting may ask for a particular item to be taken out of order, either by being brought forward earlier, or deferred. The chairman is entitled to exercise his discretion on this kind of request, but the meeting can insist if the chairman objects. In such a case a motion will have to be moved and seconded by members present to ensure that the proposed change is accepted and put into operation by the chairman. But this would be very unusual and it should be possible to sort things out without having to resort to the formal procedure of a motion.
