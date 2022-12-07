@@ -87,7 +87,7 @@ Still further motions may be moved to a substantive or amended motion, the proce
 A common mistake is for chairmen to deprive members of the right to vote on the main question byb simply reading the original motion and the amendment to the meeting. Whichever is carried, subject to being further amended, is declared to be the resolution. This is wrong. Members may have voted for an amendment not because they approved of it but because it was the lesser of two evils.
 
 For example, a member may want a grant of money made to some organisation, and may move and have seconded that £10 is granted. An amendment is moved to make this £5. Members opposed to any grant at all may vote for the amendment because it is better to waste £5 than £10, not because they approve of the grant. But if the chairman then declares the amended motion carried, they will have been made a party to something which they oppose. The proper course is for the chairman then to put the amended motion to the vote as the main question: ‘That £5 be granted to…’ and members who are opposed to any grant can vote against this.
-
+ 
 ### Safe procedure on financial motions
 
 On financial motions, a safe method is first to decide the main question as to whether *any* money shall be given. This can be done by moving a motion dealing solely with the *principle* of granting any money or none, without stating the amount; then, if the principle is supported, to deal with the question of amount as a further motion. But this is not always possible, particularly in the case of motions containing several clauses.
