@@ -9,7 +9,7 @@
 - [5 Amending a motion](5_amendments)
 - [6 Five types of amendment](6_types_of_amendment)
 - [7 Closing debate](7_closing)
-- [8 Voting and elections](8_elections)
+- [8 Voting and elections](8_voting)
 - [9 Committees](9_committees)
 - [10 Reports, delegations and balance sheet](10_reports)
 - [11 Conference and public meetings](11_conference)
