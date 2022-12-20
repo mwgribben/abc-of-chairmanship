@@ -12,7 +12,7 @@
 - [8 Voting and elections](8_voting)
 - [9 Committees](9_committees)
 - [10 Reports, delegations and balance sheet](10_reports)
-- [11 Conference and public meetings](11_conference)
+- [11 Conferences and public meetings](11_conferences)
 - [12 Keeping order](12_order)
 - [13 Points of order, the right of reply and suspension of standing order](13_points_of_order)
 - [14 Minutes and correspondence](14_minutes)
