@@ -1,0 +1,5 @@
+# Epilogue
+
+Lloyd George once said ‘The graveyards of Wales are full of indispensable men.’ No one, not even the best chairman, is indispensable. Having the same person, however competent, in the chair year after year cannot be good either for the individual or the organisation. The organisation suffers because it needs the flow of fresh ideas which someone new will bring, and because it needs a pool of experienced people on whom it can rely, not just one or two old hands. And the individual who stays too long in the chair suffers because sooner or later he becomes set in his ways and fails to look for new challenges.
+
+Of course, it would be wrong to give advice about when to stand down – that will depend on the individual and the organisation. But the best kind of chairman is the one who looks for, and tries to cultivate, his successor. And when he retires he will probably find that, with all the experience he has gained, he really is indispensable – not necessarily as chairman but doing some other service, in the same organisation or in another.
