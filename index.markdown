@@ -22,4 +22,4 @@
 - [A Branch procedure at a glance](at_a_glance)
 - [B Flow charts of procedure](charts)
 - [C Model standing orders](model_standing_orders)
-- [D Hints for speakers](hints)
+- [D Hints for speakers](hints_for_speakers)
