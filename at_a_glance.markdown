@@ -2,7 +2,7 @@
 
 # Branch Procedure at a Glance
 
-### A. Commencement
+    ### A. Commencement
 
 1. Quorum must be present
 2. Chairman declares meeting open
