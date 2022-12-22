@@ -52,14 +52,30 @@ No motion or amendment which has been accepted by the Chair shall be withdrawn w
 
 ### 13. Closing Debate
 
+The motions for the previous question, next business or the closure may be moved and seconded only by members who have not previously spoken at any time during the debate. No speeches shall be allowed on such motions. In the event of the closure being carried, the mover of the Original Motion shall have the right to reply in accordance with Standing Order number 11, before the question is put. Should any one of the motions mentioned in this Standing Order be defeats, (00) minutes shall elapse before it can be accepted again by the chairman, unless he is of the opinion that the circumstances have materially altered in the meantime.
+
 ### 14. Adjournment
+
+Any member who has not already spoken during the debate may move the adjournment of the question under discussion, or of the meeting, but must confine his remarks to that question and must not discuss any other matter. The mover of the motion upon which the adjournment has been moved shall be allowed the right to reply on the question of the adjournment, but such reply shall not prejudice his right of reply on his own motion. In the event of such motion being lost it shall not be moved again, except in accordance with Standing Order number 13.
 
 ### 15. Voting
 
+The voting shall be by show of hands, except where a ballot vote is specified by the General Rules. Where required by such rules, or where deemed necessary by the chairman, two scrutineers or tellers shall be appointed by the chairman. The chairman shall not vote on any question, unless there is an equal number of votes, when he shall have a casting vote, OR, *The chairman may vote on any issue as an ordinary member. If, having done so, the voting is level, he may, if he so decides, exercise an additional casting vote to decide the issue.*
+
 ### 16. Voting in Committee
+
+Where a difference of opinion on a proposition at a meeting of any committee occurs, a vote shall be taken (and the names of those voting for and against, and of those abstaining from voting, shall be stated in the minutes).
 
 ### 17. Notice of motion
 
+Notices of motion shall be sent to the secretary in writing not less than (00) days before the meeting at which they are to be discussed. Such motions shall be placed upon the Agenda in the order in which they are received by the secretary.
+
 ### 18. Rescinding a Resolution
 
+No resolution shall be rescinded or amended at the same meeting at which it is passed. (00) days notice of its rescindment or amendment must be given, but the resolution shall not be rescinded or amended unless by the consent of two thirds of the delegates present at the meeting when it is considered.
+
+No resolution involving important issues of finance or policy shall be rescinded at any meeting unless every member eligible to attend such meeting has been duly notified and given the opportunity of being present.
+
 ### 19. Amendment of Standing Orders
+
+These Standing Orders can be amended only at the Annual General Meeting by the consent of two thirds of the delegates present and voting, notice of motion having been sent as specified in Standing Order number 17. 
