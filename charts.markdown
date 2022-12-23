@@ -41,7 +41,7 @@ graph TB
 
 ## Procedure on a motion in any event
 <div class="mermaid">
-graph TB
+graph LR
 A[Motion] --> B[No Amendment proposed] & C[Amendment proposed]
 
 B --Vote--> D([Carried]) & E([Defeated])
