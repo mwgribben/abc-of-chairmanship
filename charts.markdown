@@ -1,6 +1,10 @@
 ---
 mermaid: true
 ---
+# Appendix B
+
+# Flow charts of Procedure
+
 ## Procedure on a motion which is put to the vote
 
 <div class="mermaid">
