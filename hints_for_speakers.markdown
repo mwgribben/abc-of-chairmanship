@@ -6,7 +6,7 @@ This appendix gives some brief pointers to successful public speaking. It is not
 
 ### Preparation
 
-Oratory is a natural gift which few possess. The orator thrives on the emotions he arouses in himself and those he evokes from his audience. But others can achieve fluency and even eloquence by care and practice. So full preparation – which includes reading as much as possible on the subject – is essential.
+Oratory is a natural gift which few possess. The orator thrives on the emotions they arouse in themselves and those they evoke from their audience. But others can achieve fluency and even eloquence by care and practice. So full preparation – which includes reading as much as possible on the subject – is essential.
 
 ### Do I use notes or write the speech out in full?
 

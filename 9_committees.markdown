@@ -26,7 +26,7 @@ The number to form a quorum is usually fixed when a committee is appointed. In t
 
 ### Ex officio members
 
-Sometimes the chairman and secretary of the parent body attend committee meetings as *ex officio* members, that is, members by virtue of their office in the appointing society. *Ex officio* members have a right to express their views but possess no voting powers, unless expressly conferred by rule or resolution. Similarly, *ex officio* members do not form part of the committee for the purpose of counting a quorum. Frequently, however, a committee is formed entirely of lay members who appoint the chairman and secretary from among themselves when, of course, they have the same voting rights as other members.
+Sometimes the chair and secretary of the parent body attend committee meetings as *ex officio* members, that is, members by virtue of their office in the appointing society. *Ex officio* members have a right to express their views but possess no voting powers, unless expressly conferred by rule or resolution. Similarly, *ex officio* members do not form part of the committee for the purpose of counting a quorum. Frequently, however, a committee is formed entirely of lay members who appoint the chair and secretary from among themselves when, of course, they have the same voting rights as other members.
 
 ### Co-opted members
 
@@ -38,16 +38,16 @@ The methods of dealing with business in a committee will vary to some extent wit
 
 1. general discussion usually precedes the moving of a motion;
 2. motions need not necessarily be seconded;
-3. members may speak as often as they can catch the chairman's eye;
+3. members may speak as often as they can catch the chair's eye;
 4. members may remain seated when speaking.
 
-### Signalling the chairman
+### Signalling the chair
 
-A member wishing to speak in committee should raise his hand whilst the discussion is proceeding, and so indicate to the chairman that he wishes to speak next. Then the chairman puts his name down on a list of speakers. If other names are already down, the chairman can signal how many speakers will come before the applicant. Then when the member speaking has finished, the chairman can read out the names of those who wish to speak and the order in which they will come.
+A member wishing to speak in committee should raise their hand whilst the discussion is proceeding, and so indicate to the chair that they wish to speak next. Then the chair puts their name down on a list of speakers. If other names are already down, the chair can signal how many speakers will come before the applicant. Then when the member speaking has finished, the chair can read out the names of those who wish to speak and the order in which they will come.
 
 ### Informality
 
-But this is not to suggest that the procedure in committees should be too formal. In general, procedure in committees is much less formal than in large meetings. Members will discuss matters between themselves rather than making formal speeches, and although they should usually avoid interrupting other members when they are speaking, the occasional interjection should not be discouraged by the chairman.
+But this is not to suggest that the procedure in committees should be too formal. In general, procedure in committees is much less formal than in large meetings. Members will discuss matters between themselves rather than making formal speeches, and although they should usually avoid interrupting other members when they are speaking, the occasional interjection should not be discouraged by the chair.
 
 ### Size of committees
 
@@ -55,21 +55,21 @@ The way meetings are run will depend very much on the size of the committee. Lar
 
 ### Summing up discussion
 
-Where committees are reasonably small, it is unnecessary to insist on a formal motion being moved. Instead, the chairman should try to gauge the general feelings expressed in discussion and sum them up into a decision. He may find it helpful to make notes of key points made in discussion to assist him in this. If, in summing up, he finds that what he assumed was a general view is not that of all the members, he should then ask for a motion to be moved, when the matter would be decided in the normal way of debate.
+Where committees are reasonably small, it is unnecessary to insist on a formal motion being moved. Instead, the chair should try to gauge the general feelings expressed in discussion and sum them up into a decision. They may find it helpful to make notes of key points made in discussion to assist them in this. If, in summing up, they find that what they assumed was a general view is not that of all the members, they should then ask for a motion to be moved, when the matter would be decided in the normal way of debate.
 
 ## Procedure – standing committees
 
-The first job at meetings of standing committes is to confirm the minutes of the previous meeting. If they have been sent out to each member they need not be read over at the beginning of the following meeting. The chairman usually says: ‘May I sign the minutes as a correct record?’ The members then respond with ‘Agreed’, or if there is any question as to accuracy, this is immediately gone into. Agendas for standing committees should be sent out to members with the circular convening the meeting. If this has not been done and if copies are not available for all members, the chairman should read over the agenda. The business then proceeds in much the same way as at ordinary general meetings of members, apart from the differences mentioned above.
+The first job at meetings of standing committes is to confirm the minutes of the previous meeting. If they have been sent out to each member they need not be read over at the beginning of the following meeting. The chair usually says: ‘May I sign the minutes as a correct record?’ The members then respond with ‘Agreed’, or if there is any question as to accuracy, this is immediately gone into. Agendas for standing committees should be sent out to members with the circular convening the meeting. If this has not been done and if copies are not available for all members, the chair should read over the agenda. The business then proceeds in much the same way as at ordinary general meetings of members, apart from the differences mentioned above.
 
 ## Procedure – working parties
 
 ### Terms of reference
 
-The agenda of a working party or special committee usually consists of its terms of reference which will have been laid down by a resolution from the parent body. It is probably best to divide the subject into sections and to consider each separately. The chairman should take care that the working party does not go outside its terms of reference; this can result in time and effort being wasted and can cause confusion.
+The agenda of a working party or special committee usually consists of its terms of reference which will have been laid down by a resolution from the parent body. It is probably best to divide the subject into sections and to consider each separately. The chair should take care that the working party does not go outside its terms of reference; this can result in time and effort being wasted and can cause confusion.
 
 ### Drafting a report
 
-Discussion at working parties will be informal, as in small committee meetings. One way of coming to a view might be to pass a series of resolutions which would provide the basis for drafting a report, but probably a better way is for the chairman and secretary to prepare a draft report containing what seem to be the views of the working party and submit it to the other members for consideration. Alternatively, the secretary might take notes of the points on which agreement seems likely, and then some member with ability at drafting might be appointed by the working party to rough something out. A draft report should be arranged in paragraphs, each of which should be numbers for purposes of reference.
+Discussion at working parties will be informal, as in small committee meetings. One way of coming to a view might be to pass a series of resolutions which would provide the basis for drafting a report, but probably a better way is for the chair and secretary to prepare a draft report containing what seem to be the views of the working party and submit it to the other members for consideration. Alternatively, the secretary might take notes of the points on which agreement seems likely, and then some member with ability at drafting might be appointed by the working party to rough something out. A draft report should be arranged in paragraphs, each of which should be numbers for purposes of reference.
 
 ### Interim report
 
@@ -77,15 +77,15 @@ Where the deliberations cover a lengthy period, an interim report, giving the pr
 
 ### Considering a draft report
 
-the draft report should be circulated to members in advance of the meeting, and each paragraph discussed in turn. Members will make suggestions about improvements in the drafting, although where there are contentious sections it may be necessary to take a formal vote. Finally, the Chairman will put a formal motion: ‘*That this draft report (or the report as amended if any amendments have been made) be adopted as the report of this working party*’.
+the draft report should be circulated to members in advance of the meeting, and each paragraph discussed in turn. Members will make suggestions about improvements in the drafting, although where there are contentious sections it may be necessary to take a formal vote. Finally, the Chair will put a formal motion: ‘*That this draft report (or the report as amended if any amendments have been made) be adopted as the report of this working party*’.
 
-After this motion has been carried, the report is signed by the chairman, and is then ready for presentation to the parent body.
+After this motion has been carried, the report is signed by the chair, and is then ready for presentation to the parent body.
 
 ### Rival draft reports
 
-Any member of a working party may draft a report independently of the chairman and secretary and submit it to the working party. It should usually be possible to arrange a compromise and dovetail the two reports into one. But if not, the reports must be treated as rivals, and a motion may be moved: ‘*That the general policy of the report of the chairman and secretary be accepted.*’
+Any member of a working party may draft a report independently of the chair and secretary and submit it to the working party. It should usually be possible to arrange a compromise and dovetail the two reports into one. But if not, the reports must be treated as rivals, and a motion may be moved: ‘*That the general policy of the report of the chair and secretary be accepted.*’
 
-This means in effect that the report referred to shall be the one to stand for further consideration by the working party. The author of the rival draft would probably move an amendment to delete the words ‘chairman and secretary’ from the motions, and insert his name. Discussion may be allowed on the motion or amendment, after which the vote is taken. The report which is rejected then disappears from consideration, after which the successful draft report is considered in detail as described above.
+This means in effect that the report referred to shall be the one to stand for further consideration by the working party. The author of the rival draft would probably move an amendment to delete the words ‘chair and secretary’ from the motions, and insert their name. Discussion may be allowed on the motion or amendment, after which the vote is taken. The report which is rejected then disappears from consideration, after which the successful draft report is considered in detail as described above.
 
 ### Minority report
 
@@ -95,10 +95,10 @@ Even after the report has been carried, by a majority vote, some members may fee
 
 If it seems to member of a working party that they are not likely to accomplish satisfactorily the business referred to them, the sittings of the working party may be suspended by the following motions: ‘*That the working party report progress.*’
 
-If this motion is carried, the business is discontinued, and the chairman reports to the appointing body the result of the work to date. The chairman may then ask permission from the parent body for the working party to sit again. If this is given, the working party resumes its meetings.
+If this motion is carried, the business is discontinued, and the chair reports to the appointing body the result of the work to date. The chair may then ask permission from the parent body for the working party to sit again. If this is given, the working party resumes its meetings.
 
 ### Dissolving working parties
 
-There is another motion which, if accepted, virtually dissolves the working party: ‘That the chairman leave the chair.’
+There is another motion which, if accepted, virtually dissolves the working party: ‘That the chair leave the chair.’
 
 If this is carried, it means that the working party cannot sit again until it has received instructions from the parent body.

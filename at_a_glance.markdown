@@ -5,9 +5,9 @@
     ### A. Commencement
 
 1. Quorum must be present
-2. Chairman declares meeting open
+2. Chair declares meeting open
 3. Secretary reads notice convening meeting
-4. Chairman reads the Agenda
+4. Chair reads the Agenda
 
     ### B. Minutes
 
@@ -15,7 +15,7 @@
 6. Motion taken confirming same
 7. No discussion except on their accuracy
 8. Amended if inaccurate or incomplete
-9. Chairman signs minutes and initials corrections
+9. Chair signs minutes and initials corrections
 
     ### C. Correspondence
 
@@ -31,13 +31,13 @@
     ### D. Motions
 
 15. Must be moved in the affirmative and moved and seconded
-16. Chairman reads motion and inquires whether wording is accurate
+16. Chair reads motion and inquires whether wording is accurate
 17. No alteration or withdrawal except by unanimous consent
 18. Discussion then follows
 19. Members allowed one speech only
-20. Chairman decides who has got the floor
+20. Chair decides who has got the floor
 21. Mover replies at the end of the debate
-22. Chairman reads the motion and puts the question
+22. Chair reads the motion and puts the question
 
     ### E. Amendments
 
@@ -50,7 +50,7 @@
 
     ### F. Closing Debate
 
-29. Chairman may ask: ‘Are you ready to vote?’
+29. Chair may ask: ‘Are you ready to vote?’
 30. Motion: ‘That the question be now put’, may be moved at any time
 31. When moved on an amendment, applies to it only
 32. Put without discussion
@@ -106,5 +106,5 @@
 58. If no date mentioned, main debate is shelved
 59. Adjournment of meeting supercedes main question
 60. Adjournment of meeting may also be moved as a motion when no other question is under discussion
-61. When carried, Chairman declares meeting closed
+61. When carried, Chair declares meeting closed
 62. See 33
