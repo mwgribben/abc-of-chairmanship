@@ -2,6 +2,7 @@
 
 - [Preface](preface)
 - [Editors' Foreword](foreward)
+- [Web Editor's Foreword](new_foreward)
 - [1 Introduction: the chairman's role](1_introduction)
 - [2 Notice of meetings, quorom and agenda](2_preparation)
 - [3 About motions](3_motions)
