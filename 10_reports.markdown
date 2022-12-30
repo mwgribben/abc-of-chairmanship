@@ -20,7 +20,7 @@ If any item in the sub-committee's report has been referred by it to the full me
 
 ### Presentation of reports
 
-Because working parties are special sub-committees (see chapter 9), there are differences in procedure when the report of a working party comes before the branch or general body of members. Unless it is very brief, the report should be presented in writing. The chair of the working party should present it and should be ready to answer any questions or criticisms. This may be done without a formal motion being moved.
+Because working parties are special sub-committees (see [chapter 9](9_committees)), there are differences in procedure when the report of a working party comes before the branch or general body of members. Unless it is very brief, the report should be presented in writing. The chair of the working party should present it and should be ready to answer any questions or criticisms. This may be done without a formal motion being moved.
 
 ### Approving the general principles
 
@@ -67,7 +67,7 @@ Branch balance sheets should be read by the auditors, who give a report on the c
 
 ### Discussion on balance sheet
 
-A further motion should then be proposed: ‘That the auditors' report and balance sheet be approved.’ Questions and discussions may then be allowed on the tiems figuring on the balance sheet, which may be criticised by the meeting, and amendments are permissible.  The meeting can refuse to accept any item on the balance sheets. if so, the correct course is to move an amendment ‘That item x on the balance sheet be referred back to the auditors.’ if this is carried the final motion would read, ‘That the report and balance sheet as amended be approved.’ If they desire, the members may then give instructions by motions about future financial policy. Alternatively they may by amendment refer back the whole balance sheet and report.
+A further motion should then be proposed: ‘That the auditors' report and balance sheet be approved.’ Questions and discussions may then be allowed on the items figuring on the balance sheet, which may be criticised by the meeting, and amendments are permissible.  The meeting can refuse to accept any item on the balance sheets. If so, the correct course is to move an amendment ‘That item x on the balance sheet be referred back to the auditors.’ if this is carried the final motion would read, ‘That the report and balance sheet as amended be approved.’ If they desire, the members may then give instructions by motions about future financial policy. Alternatively they may by amendment refer back the whole balance sheet and report.
 
 The balance sheets of executive and district committees are treated as part of the reports of such bodies, and should be dealt with by the branches as indicated above.
 
@@ -75,7 +75,7 @@ The balance sheets of executive and district committees are treated as part of t
 
 ### Preliminary arrangements
 
-Trade union branches and local political parties will often have talks from guest speakers. Careful arrangements should be made for this. The talk should be well publicised in advance – for example, on the notice of meeting – so that there is a good attendance, and teh secretary should consult the speaker about the precise subject on which they will talk, the length of their address and on the time to be allowed for questions. The secretary should also let the speaker know when their talk is due to begin so that they do not need to sit around listening to routine business. It is tactful to clear the question of any fees or expenses in advance, to avoid embarrassment (on both sides) after the meeting.
+Trade union branches and local political parties will often have talks from guest speakers. Careful arrangements should be made for this. The talk should be well publicised in advance – for example, on the notice of meeting – so that there is a good attendance, and the secretary should consult the speaker about the precise subject on which they will talk, the length of their address and on the time to be allowed for questions. The secretary should also let the speaker know when their talk is due to begin so that they do not need to sit around listening to routine business. It is tactful to clear the question of any fees or expenses in advance, to avoid embarrassment (on both sides) after the meeting.
 
 ### Introduction to audience
 

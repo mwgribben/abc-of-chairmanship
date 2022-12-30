@@ -44,11 +44,11 @@ If the press are invited, whether to a conference or a public meeting, a separat
 
 ### Platform arrangements
 
-If there is room, the committee under whose jurisdiction a conference is being held should be seated on the platform – a full platform looks better than an empty space. The best arrangement is to have a table running right across the platform with each member allocated a seat. The chair should sit in the centre and be raised above the others slightly, and should be provided with a bell which can be heard throughout the hall. At larger conferences where speakers are subject to a time limit, the chair operates the red light on the rostrum which indicates to the speaker that their time is up; if the speaker ignores the red light, the chair may have a cut-off switch for the microphone. To operate this procedure fairly, the chair has to use a stop watch. At public meetings it is best to get all the speakers on the platform. In all cases, drinking water and glasses should be provided.s
+If there is room, the committee under whose jurisdiction a conference is being held should be seated on the platform – a full platform looks better than an empty space. The best arrangement is to have a table running right across the platform with each member allocated a seat. The chair should sit in the centre and be raised above the others slightly, and should be provided with a bell which can be heard throughout the hall. At larger conferences where speakers are subject to a time limit, the chair operates the red light on the rostrum which indicates to the speaker that their time is up; if the speaker ignores the red light, the chair may have a cut-off switch for the microphone. To operate this procedure fairly, the chair has to use a stop watch. At public meetings it is best to get all the speakers on the platform. In all cases, drinking water and glasses should be provided.
 
 ### Stewarding
 
-At large public meetings and conferences, stewards should be appointed. Their job is to act as doorkeepers (this is particularly important if admission to the meeting is by ticket), to show people to their seats and if necessary to help the chair keep order in the hall (see chapter 12).
+At large public meetings and conferences, stewards should be appointed. Their job is to act as doorkeepers (this is particularly important if admission to the meeting is by ticket), to show people to their seats and if necessary to help the chair keep order in the hall (see [chapter 12](12_order)).
 
 ### Chairing conferences and public meetings
 

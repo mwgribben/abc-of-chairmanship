@@ -13,7 +13,7 @@ In putting the question, the chair should first read the motion loudly and disti
 
 ### Counting the votes
 
-In conferences and large meetings it is usually necessary to appoint members – called ‘tellers’ – to count the votes. This is to ensure accuracy and to avoid any suggestions taht the organisers of the meeting are not stdrictly impartial. At smaller meetings, the chair usually does the counting themselves with the assistance of the secretary as an extra precaution.
+In conferences and large meetings it is usually necessary to appoint members – called ‘tellers’ – to count the votes. This is to ensure accuracy and to avoid any suggestions that the organisers of the meeting are not strictly impartial. At smaller meetings, the chair usually does the counting themselves with the assistance of the secretary as an extra precaution.
 
 ### Voting by ‘Aye’ or ‘No’
 
@@ -25,7 +25,7 @@ At conferences where each delegate represents a defined number of members – fo
 
 ### Recording votes
 
-Very rarely there will be a vital issue on which it is absolutely essential to have a record of the votes cast – for example, where a meeting consists of edlegates who have been sent with a definite mandate as to how they shall vote. To ensure that there is no doubt about how the delegates have voted, the roll call or record vote is used in which delegates shout ‘Yes’ or ‘No’ when their names are called. Very rarely, a vote may be taken which could lead to legal action against the body if the motion is carried. In such circumstances, those opposing the motion are entitled to insist on their names being recorded.
+Very rarely there will be a vital issue on which it is absolutely essential to have a record of the votes cast – for example, where a meeting consists of delegates who have been sent with a definite mandate as to how they shall vote. To ensure that there is no doubt about how the delegates have voted, the roll call or record vote is used in which delegates shout ‘Yes’ or ‘No’ when their names are called. Very rarely, a vote may be taken which could lead to legal action against the body if the motion is carried. In such circumstances, those opposing the motion are entitled to insist on their names being recorded.
 
 ### When voting is unnecessary
 
@@ -57,11 +57,11 @@ The method of conducting an election can be illustrated by dealing with the appo
 
 ### Closing nominations
 
-The number of candidates is not restricted to the actual number of places on the committee but generally, as soon as there seem to be sufficient candidates to give the meeting proper choice, some member will move ‘That nominations be closed.’ This motion cannot be moved by a candidate, or by a member who has proposed or seconded any of the candidates. The chair will then say: ‘Is it your wish that nominations be closed?’ The member then reply: ‘Agreed.’ If the response seems general, nominations are closed immediately. No discussion may be permitted on this formal motion. If the motion ‘That nominations be closed’ is lost, the chair allows further nominations until no more names are being put forward.
+The number of candidates is not restricted to the actual number of places on the committee but generally, as soon as there seem to be sufficient candidates to give the meeting proper choice, some member will move ‘That nominations be closed.’ This motion cannot be moved by a candidate, or by a member who has proposed or seconded any of the candidates. The chair will then say: ‘Is it your wish that nominations be closed?’ The members then reply: ‘Agreed.’ If the response seems general, nominations are closed immediately. No discussion may be permitted on this formal motion. If the motion ‘That nominations be closed’ is lost, the chair allows further nominations until no more names are being put forward.
 
 ### Election by ‘first past the post’
 
-The chair then reads the names of the candidates. For example, they might say: ‘There are three members to be elected to the committee. THe candidates nominate are (naming them). *Five* candidates for *three* positions. You each have three votes. I shall put the names in the order in which they were moved. All those in favour of John Smith?’ They then count the hands held up in favour of the candidate, and the secretary makes a note of the number. Then the next candidate is dealt with similarly. This process is continued until the list has been completed. The three candidates receiving the highest number of votes are then decalared elected.
+The chair then reads the names of the candidates. For example, they might say: ‘There are three members to be elected to the committee. The candidates nominate are (naming them). *Five* candidates for *three* positions. You each have three votes. I shall put the names in the order in which they were moved. All those in favour of John Smith?’ They then count the hands held up in favour of the candidate, and the secretary makes a note of the number. Then the next candidate is dealt with similarly. This process is continued until the list has been completed. The three candidates receiving the highest number of votes are then decalared elected.
 
 ### Reading the list
 
@@ -69,13 +69,13 @@ When the list is a long one, the chair should read the names before taking the v
 
 ### Varying the order
 
-The chair may vary the order of putting the names to the vote. They may select a name from the top of the list and after putting this take one from the bottom, alternately taking one from the top and one from the bottom until the list has been exhausted. As an alternative they may start from the bottom and take the names until they reach the top candidates. The chair shuld be extremely careful about this to avoid accusations of lack of impartiality. They should always announce to the meeting beforehand the procedure they are going to adopt, and if there is any objection the names should be put in the order in which they were nominated.
+The chair may vary the order of putting the names to the vote. They may select a name from the top of the list and after putting this take one from the bottom, alternately taking one from the top and one from the bottom until the list has been exhausted. As an alternative they may start from the bottom and take the names until they reach the top candidates. The chair should be extremely careful about this to avoid accusations of lack of impartiality. They should always announce to the meeting beforehand the procedure they are going to adopt, and if there is any objection the names should be put in the order in which they were nominated.
 
 ### The exhaustive vote
 
 There is another method, called the exhaustive vote, which is in effect voting by the process of elimination. The election is taken in rounds, and with five candidates and three seats, for example (the procedure can of course be used with any number of candidates and seats), each member in the room would have four votes on the first round. They would cast these four votes for the four candidates whom they desired to be elected out of the five nominated. The candidate securing the lowest number of votes on the first round would drop out, leaving four candidates only for the three positions. The next round the members would have three votes, with only four candidates. Again the candidate receiving the lowest number of votes in the second round would drop out. No further round would be necessary, and the remaining three candidates would be declared elected. This is a tedious procedure, but arguably the fairest.
 
-An alternative but similar procedure (again assuming three seats) is for each member to be given only three votes. Thus, on the first and succeeding rounds, each member would have three votes. On each round, the candidate with the fewest votes would drop out, and voting would continue until only three candidates were left. Under both these alterantives, if voting for the bottom candidate is level, there must be a second vote to determine who drops out.
+An alternative but similar procedure (again assuming three seats) is for each member to be given only three votes. Thus, on the first and succeeding rounds, each member would have three votes. On each round, the candidate with the fewest votes would drop out, and voting would continue until only three candidates were left. Under both these alternatives, if voting for the bottom candidate is level, there must be a second vote to determine who drops out.
 
 ### Electing officers
 
@@ -93,11 +93,11 @@ As in voting by show of hands, voting by ballot may be on the basis of first pas
 
 ### Election by ballot
 
-Where elections are to be contested, there is a strong argument for using a secret ballto rather than a show of hands, because members will be much freer to vote for the person they regard as the best candidate without feeling taht they are losing friends. If the election is to be by ballot, the names of the candidates (perhaps with a few relevant particulars) should be entered on the ballot paper in alphabetical order. The alphabetical method ensures that no one will accuse the officials of giving any candidate a better position on the ballot paper than another.
+Where elections are to be contested, there is a strong argument for using a secret ballot rather than a show of hands, because members will be much freer to vote for the person they regard as the best candidate without feeling that they are losing friends. If the election is to be by ballot, the names of the candidates (perhaps with a few relevant particulars) should be entered on the ballot paper in alphabetical order. The alphabetical method ensures that no one will accuse the officials of giving any candidate a better position on the ballot paper than another.
 
 ### Scrutineers
 
-IN all cases where a ballot vote is taken, two or more members must be appointed by the meeting to supervise or scrutinise the taking and counting of votes. These members are called scrutineers and their appointment (from members independent of the platform) is intended to guarantee absolute impartiality. They should not be candidates themselves, nor (as far as possible) should they favour any particular candidate.
+In all cases where a ballot vote is taken, two or more members must be appointed by the meeting to supervise or scrutinise the taking and counting of votes. These members are called scrutineers and their appointment (from members independent of the platform) is intended to guarantee absolute impartiality. They should not be candidates themselves, nor (as far as possible) should they favour any particular candidate.
 
 The practice of appointing independent members may be waived by consent of the meeting and the chair and secretary, or other officials, can be authoried by those present to act as scrutineers. However, where there is any possibility of high feelings being roused by the results, it is best for the scrutineers to be separately appointed by the meeting. The chair and officers generally should never be placed in a position where their fairness and integrity can be questioned. Certain trade unions have rules requiring the chair to scrutinise ballot papers and sign scrutineers' sheets in addition to the scrutineers, but there is nothing in the duties of chairing, as such, which requires a chair to scrutinise ballot papers. However, it is a sound practice for completed ballot papers to be kept in a sealed envelope for a period after the election, just in case the results are challenged.
 
@@ -111,11 +111,11 @@ Voting under this system can be employed tactically – if Smith is popular and 
 
 Because the chair's role is essentially an impartial one, they should not normally vote unless it is to exercise the casting vote, to which they are specially entitled and which may be used whether the vote in on a motion or for the election of a candidate. There are, in fact, two views as to the chair's voting rights in the absence of express provision in the rules or standing orders.
 
-THe *first* is that the has a deciding vote only – that is, on any matter on which the members are equally divided for and against, they have the power to exercise a deciding vote.
+The *first* is that the chair has a deciding vote only – that is, on any matter on which the members are equally divided for and against, they have the power to exercise a deciding vote.
 
-The *second* view is more controversial, but is considered to be legally correct. This is that the chair has their own vote *as an ordinary members* and an additional casting vote *as chair*. They are thus entitled to use their member's vote, even though it produces equality for and against the motion or candidate, and can then use their casting vote, as chair, whichever way they think best (or not at all). If the chair exercises their two votes, they should not cast them together. In other words, they should use their vote as an ordinary member at the same time as the other members vote and then, *only if the voting is level*, use their casting vote.
+The *second* view is more controversial, but is considered to be legally correct. This is that the chair has their own vote *as an ordinary member* and an additional casting vote *as chair*. They are thus entitled to use their member's vote, even though it produces equality for and against the motion or candidate, and can then use their casting vote, as chair, whichever way they think best (or not at all). If the chair exercises their two votes, they should not cast them together. In other words, they should use their vote as an ordinary member at the same time as the other members vote and then, *only if the voting is level*, use their casting vote.
 
-Apart from the thorny question as to whether they are entitled to use member's vote *after others have cast theirs*, it will appear undiplomatic (and to some undemocratic) for the chair to ‘swing’ the voting of a conference by registering together two votes in the same direction upon a highly controversial matter.
+Apart from the thorny question as to whether they are entitled to use their member's vote *after others have cast theirs*, it will appear undiplomatic (and to some undemocratic) for the chair to ‘swing’ the voting of a conference by registering together two votes in the same direction upon a highly controversial matter.
 
 The rules of standing orders should always place difficult procedural matters beyond doubt and specify whether the chair has an additional casting vote and how it (and their own member's vote) is to be exercised. But the chair should always think very carefully before using their casting vote; there may be occasions where, having voted as a member in favour of a motion, they may (on finding equality of voting) decide not to use their casting vote, or even to use it against the motion.
 
@@ -125,4 +125,4 @@ On ballot votes, of course, the chair has the right to vote like any other membe
 
 ### Recounts
 
-Finally, if voting (whether conducted by show of hands or by ballot) is close, members have the right to deman a recount and the chair should always accede to this unless it is clear that the request is frivolous.
+Finally, if voting (whether conducted by show of hands or by ballot) is close, members have the right to demand a recount and the chair should always accede to this unless it is clear that the request is frivolous.

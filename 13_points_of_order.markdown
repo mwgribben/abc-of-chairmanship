@@ -14,7 +14,7 @@ A point of order may be put to the chair at any time, even when a member is not 
 
 ### How to put a point of order
 
-Members who want to raise a point of order must do so *immediately* the alleged breach has occurred, and must address the chair directly and not the member who has been interrupted. In putting a point of oder, the interjector must not make anything like a speech. The point of order must be put briefly and directly in the form of a question, and prefaced by ‘Chair, is it in order to –’ (here follows the point of order).
+Members who want to raise a point of order must do so *immediately* once the alleged breach has occurred, and must address the chair directly and not the member who has been interrupted. In putting a point of oder, the interjector must not make anything like a speech. The point of order must be put briefly and directly in the form of a question, and prefaced by ‘Chair, is it in order to –’ (here follows the point of order).
 
 ### Points of explanation
 

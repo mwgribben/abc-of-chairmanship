@@ -77,7 +77,7 @@ Where the deliberations cover a lengthy period, an interim report, giving the pr
 
 ### Considering a draft report
 
-the draft report should be circulated to members in advance of the meeting, and each paragraph discussed in turn. Members will make suggestions about improvements in the drafting, although where there are contentious sections it may be necessary to take a formal vote. Finally, the Chair will put a formal motion: ‘*That this draft report (or the report as amended if any amendments have been made) be adopted as the report of this working party*’.
+The draft report should be circulated to members in advance of the meeting, and each paragraph discussed in turn. Members will make suggestions about improvements in the drafting, although where there are contentious sections it may be necessary to take a formal vote. Finally, the Chair will put a formal motion: ‘*That this draft report (or the report as amended if any amendments have been made) be adopted as the report of this working party*’.
 
 After this motion has been carried, the report is signed by the chair, and is then ready for presentation to the parent body.
 
@@ -93,7 +93,7 @@ Even after the report has been carried, by a majority vote, some members may fee
 
 ### Suspending working parties
 
-If it seems to member of a working party that they are not likely to accomplish satisfactorily the business referred to them, the sittings of the working party may be suspended by the following motions: ‘*That the working party report progress.*’
+If it seems to members of a working party that they are not likely to accomplish satisfactorily the business referred to them, the sittings of the working party may be suspended by the following motions: ‘*That the working party report progress.*’
 
 If this motion is carried, the business is discontinued, and the chair reports to the appointing body the result of the work to date. The chair may then ask permission from the parent body for the working party to sit again. If this is given, the working party resumes its meetings.
 

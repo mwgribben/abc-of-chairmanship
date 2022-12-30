@@ -2,7 +2,7 @@
 
 # Keeping Order
 
-The chair's primary duty is to preserve order. Usually they will have no difficulty because most people possess a sense of fairness which instinctively makes them respect the authority of the chair. This is particularly true of members of organisations whose meetings are regularly held and who, by contact, learn to trust the chair. Members feel they are responsible fro maintaining the good name of the society. Most organisations do, however, take the precaution of giving the chair very extensive powers to deal with those who are out deliberately to create trouble. In such cases the chair should never hesitate to use their powers by imposing any penalties which the rules provide, but they should always bear in mind that troublesome members can often be called to order by polite persuasion. This should always be tried first, but if it fails the chair must adopt firmer measures. Generally the members will support them in this.
+The chair's primary duty is to preserve order. Usually they will have no difficulty because most people possess a sense of fairness which instinctively makes them respect the authority of the chair. This is particularly true of members of organisations whose meetings are regularly held and who, by contact, learn to trust the chair. Members feel they are responsible for maintaining the good name of the society. Most organisations do, however, take the precaution of giving the chair very extensive powers to deal with those who are out deliberately to create trouble. In such cases the chair should never hesitate to use their powers by imposing any penalties which the rules provide, but they should always bear in mind that troublesome members can often be called to order by polite persuasion. This should always be tried first, but if it fails the chair must adopt firmer measures. Generally the members will support them in this.
 
 ### Naming a member
 
@@ -16,7 +16,7 @@ But systematic attempts to disrupt – for example by a small number of persons 
 
 ### Public Order Act
 
-> Ed: The relevant part of the Public Order Act 1936 quoted in the below two sections has been repealed by the Public Order Act 1986, which replaced breach of the peace with charges covering words or behaviour causing harassment, alarm or distress. Do not rely on these sections for present-day legal advice.
+**Editor's note: The relevant part of the Public Order Act 1936 quoted in the below two sections has been repealed by the Public Order Act 1986, which replaced ‘breach of the peace’ with new charges covering words or behaviour causing harassment, alarm or distress. Do not rely on these sections for present-day legal advice.**
 
 The police have considerable powers to control disorderly behaviour at meetings, particularly under Section 5 of the Public Order Act 1936 whereby it is an offence for any person in any public place or at any public meeting to use threatening, abusive or insulting words or behaviour with intent to provoke a breach of the peace or whereby a breach of the peace is likely to be occasioned.
 
@@ -39,7 +39,7 @@ If the interrupter gives a proper name and address the chair should then, if the
 
 ### Role of stewards
 
-Stewards should not be aggressive. They should never eject an interrupter without the authority of the chair. If they see a member of the audience behaving badly, they should quietly warn them. If the chair orders them to be put out, the stewards should never use more force than is necessary. Otherwise they will expose themselves to an action for assault.
+Stewards should not be aggressive. They should never eject an interrupter without the authority of the chair. If they see a member of the audience behaving badly, they should quietly warn the chair. If the chair orders them to be put out, the stewards should never use more force than is necessary. Otherwise they will expose themselves to an action for assault.
 
 ### Incitement from the platform
 

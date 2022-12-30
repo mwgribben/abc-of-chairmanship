@@ -32,7 +32,7 @@ If any member interrupts another while addressing the meeting, or uses abusive o
 
 ### 8. Speeches
 
-No member shall be allowed to speak more than once upon any subject before the meeting, unless in committee, or on a point of order, or explanation, except the mover of the Original Motion. But on an amendment being moved, any member, even though they have spoken on the Original Motion, may speak again on the amendment. No member shall speak for more than ten minutes at one time. Members wishing to raise points of order or explanation must first obtain the permission of the chair, and must rise immediately the alleged breach has occurred. Any member may formally second any motion or amendment and reserve their speech until a later period in the debate.
+No member shall be allowed to speak more than once upon any subject before the meeting, unless in committee, or on a point of order, or explanation, except the mover of the Original Motion. But on an amendment being moved, any member, even though they have spoken on the Original Motion, may speak again on the amendment. No member shall speak for more than ten minutes at one time. Members wishing to raise points of order or explanation must first obtain the permission of the chair, and must rise immediately when the alleged breach has occurred. Any member may formally second any motion or amendment and reserve their speech until a later period in the debate.
 
 ### 9. Motions and Amendments
 

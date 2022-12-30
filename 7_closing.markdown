@@ -1,11 +1,11 @@
 # Chapter Seven
 # Closing Debate
 
-It was suggested in chapter 4 that the chair should use their discretion about when to close a debate. The standing orders of some bodies expressly give this power; even where they do not do so, the chair is within their rights to close the debate. But particularly where the discussion has aroused strong feelings, or where a very important decision is to be made, there is a danger that if the chair closes the debate on their own initiative, they may be accused of favouring one side of the case to the detriment of the other.
+It was suggested in [chapter 4](4_debates) that the chair should use their discretion about when to close a debate. The standing orders of some bodies expressly give this power; even where they do not do so, the chair is within their rights to close the debate. But particularly where the discussion has aroused strong feelings, or where a very important decision is to be made, there is a danger that if the chair closes the debate on their own initiative, they may be accused of favouring one side of the case to the detriment of the other.
 
 ### Categories of closure motions
 
-In such cases it is preferable for the debate to be closed by means of a motion moved from the body of the meeting. There are three main types: (a) motions which call for an immediate decision on the question of issue; (b) motions which shelve the subject indefinitely; and (c) motions which postpone a decision until a future date. Those in categories (b) and (c) are called ‘dilatory motions’, because they delay matters. Breaking the quorum (mentioned in chapter X) is not regarded as a legitimate method of closing a debate and is therefore not discussed here.
+In such cases it is preferable for the debate to be closed by means of a motion moved from the body of the meeting. There are three main types: (a) motions which call for an immediate decision on the question of issue; (b) motions which shelve the subject indefinitely; and (c) motions which postpone a decision until a future date. Those in categories (b) and (c) are called ‘dilatory motions’, because they delay matters. Breaking the quorum (mentioned in [chapter 2](2_preparation)) is not regarded as a legitimate method of closing a debate and is therefore not discussed here.
 
 ### Members previously speaking may not move closure
 
@@ -19,7 +19,7 @@ If a closure motion of any kind has been moved and defeated, no similar motion m
 
 ### Moving the closure
 
-In cases where a debate appears to be unduly long, or the subject seems to have been fully discussed, anyone who has not already spoken may move ‘That the question be now put.’ This is called the *closure* or simply ‘the vote’. Sometimes a member may say, ‘I move the vote’. Whichever term is used the object is the same. It means that, in the opinion of the mover, the debate has been carried on long enouogh, and they ask the meeting to agree with them by passing their motion and so ending the discussion.
+In cases where a debate appears to be unduly long, or the subject seems to have been fully discussed, anyone who has not already spoken may move ‘That the question be now put.’ This is called the *closure* or simply ‘the vote’. Sometimes a member may say, ‘I move the vote’. Whichever term is used the object is the same. It means that, in the opinion of the mover, the debate has been carried on long enough, and they ask the meeting to agree with them by passing their motion and so ending the discussion.
 
 ### When to move the closure
 
@@ -35,7 +35,7 @@ The second type of motion for closing debate is that which gets rid of the subje
 
 ### ‘Next business’
 
-The usual way of doing this is to move ‘The the meeting proceeds to the next business.’ Unlike a closure moton, as it raises a new issue there may be discussion on it (including contributions from those who have already spoken on the original motion), but speeches must be directed to the need for proceeding to the next business and must not wander on to the original motion. However, it is unusual to allow speeches on a motion of ‘next business’.
+The usual way of doing this is to move ‘The the meeting proceeds to the next business.’ Unlike a closure motion, as it raises a new issue there may be discussion on it (including contributions from those who have already spoken on the original motion), but speeches must be directed to the need for proceeding to the next business and must not wander on to the original motion. However, it is unusual to allow speeches on a motion of ‘next business’.
 
 Next business may be moved at any time, even when an amendment is under consideration, so long as the debate has been going on for a reasonable period. If next business is carried, no vote is taken on the main question, and the meeting proceeds to the next item on the agenda. The undesirable motion, together with its amendments, is thereby shelved, and cannot again be raised during the current meeting, although it can be introduced as a new motion at a later meeting. If the motion for next business is lost, the discussion on the main issue is resumed.
 
@@ -45,7 +45,7 @@ An alternative way of proposing that a vote should not be taken is to move ‘th
 
 ### ‘I move progress’
 
-The expression ’I move progress’ mau sometimes be used by members wishing to move next business. Strictly speaking, this is incorrect; the term should really only be used to adjourn debate in committee with the intention of picking up the matter at a future meeting.
+The expression ’I move progress’ may sometimes be used by members wishing to move next business. Strictly speaking, this is incorrect; the term should really only be used to adjourn debate in committee with the intention of picking up the matter at a future meeting.
 
 ## (c) Motion postponing a decision
 
@@ -61,7 +61,7 @@ If the debate is adjourned to a specified date, a member who has already spoken 
 
 ### Adjournment of meeting
 
-A motion for the adjournment of the meeting is usually moved in the form ‘That the meeting be now adjourned’, although sometimes the motion may be worded ‘That the chair leave the chair’. A motion for the adjournment of the meeting (which does not mention any date) must be put to the vote immediately it is moved and seconded, and no debate or speeches of any kind should be allowed if its obvious intention is to shelve the business. If the motion is carried, the effect is to dispose of the main question without a vote being taken on it. When the meeting again assembles, the original motion could again be moved, and a new debate be held on it.
+A motion for the adjournment of the meeting is usually moved in the form ‘That the meeting be now adjourned’, although sometimes the motion may be worded ‘That the chair leave the chair’. A motion for the adjournment of the meeting (which does not mention any date) must be put to the vote immediately once it is moved and seconded, and no debate or speeches of any kind should be allowed if its obvious intention is to shelve the business. If the motion is carried, the effect is to dispose of the main question without a vote being taken on it. When the meeting again assembles, the original motion could again be moved, and a new debate be held on it.
 
 If the adjournment of the meeting is moved as a separate motion when there is no other question under discussion, for the genuine purpose of fixing the date of the next meeting, the motion may be discussed or amended in the ordinary way.
 
