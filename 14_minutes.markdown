@@ -8,7 +8,7 @@ Minutes are a brief but accurate record of the business transacted at the meetin
 
 ### What minutes should contain
 
-Minutes may vary in length. Some seek to record the remarks of those taking part in the proceedings, but this makes the minutes lengthy and it is not always easy to summarise complex discussions. In teh case of voluntary organisations where there is no full time secretary, it is best to keep the minutes as brief as possible. The minutes should always be numbered, item by item or paragraph by paragraph consecutively, for ease of reference and to avoid mistakes or confusion. The numbering may be started again for each meeting, but (particularly where the minutes are duplicated and circulated in loose-leaf form) it is helpful to number consecutively, starting at the beginning of each year (so that if the first meeting ended at item 8, the second meeting would begin at item 9).
+Minutes may vary in length. Some seek to record the remarks of those taking part in the proceedings, but this makes the minutes lengthy and it is not always easy to summarise complex discussions. In the case of voluntary organisations where there is no full time secretary, it is best to keep the minutes as brief as possible. The minutes should always be numbered, item by item or paragraph by paragraph consecutively, for ease of reference and to avoid mistakes or confusion. The numbering may be started again for each meeting, but (particularly where the minutes are duplicated and circulated in loose-leaf form) it is helpful to number consecutively, starting at the beginning of each year (so that if the first meeting ended at item 8, the second meeting would begin at item 9).
 
 Although every organisation has its own style of minute-writing, there are certain features which all minutes should contain. They are:
 
@@ -17,7 +17,7 @@ Although every organisation has its own style of minute-writing, there are certa
 > - All motions and amendments *in the exact form* they are put by the chair, no matter what their fate may have been. Even though they were withdrawn, defeated or superseded, they should be entered into the minutes (it is necessary to have a record so that the policy of the organisation is readily available). But if a motion or amendment does not receive a seconder, it should not be entered, except for a committee meeting where standing orders provide that a seconder is not required.
 > - The names of the movers and seconders of such motions and amendments.
 > - The numbers of those voting
-> - The chariman's decisions on matters of order
+> - The chair's decisions on matters of order
 > - Date of next meeting
 
 It is particularly important to include details of motions and amendments in order to give those who were not present the flavour of the meeting. For example, it would give the wrong impression if a sub-committee reporting back to a parent body were merely to record that a particular motion had been carried, rather than that it had been passed by a narrow majority after an amendment urging an alternative course had been rejected by only a couple of votes.
@@ -32,33 +32,33 @@ Once the minutes have been passed, they should be signed by the chair and the da
 
 ### Discussion only on accuracy
 
-no discussion should be allowed on the motion (or the chair's proposal) that the minutes be signed unless it concerns the *accuracy* of the minutes. Members are not being asked to approve of the decisions made at the previous meeting, but merely to say whether or not the minutes accurately state the business done at the previous meeting. Confusion about this can be avoided by always including in the motion the words ‘as a correct record’. If there is a motion from the floor that the minutes should be approved it is advisable, but not essential, that it should be moved and seconded by members who were actually present at the last meeting, and who should therefore *know* that they are a correct record. Until the minutes have been passed, not other business can be proceeded with.
+No discussion should be allowed on the motion (or the chair's proposal) that the minutes be signed unless it concerns the *accuracy* of the minutes. Members are not being asked to approve of the decisions made at the previous meeting, but merely to say whether or not the minutes accurately state the business done at the previous meeting. Confusion about this can be avoided by always including in the motion the words ‘as a correct record’. If there is a motion from the floor that the minutes should be approved it is advisable, but not essential, that it should be moved and seconded by members who were actually present at the last meeting, and who should therefore *know* that they are a correct record. Until the minutes have been passed, not other business can be proceeded with.
 
 ### Important of accuracy
 
-Members should make sure that the minutes contain every *resolution* which was passed at the previous meeting. The minutes are the evidence of what occurred, and if a resolution was omitted by the secretary in writing the minutes, there would be no record at all that the resolution hd ever been passed. If the minutes had to be produced in a court of law or elsewhere as evidence, it would, in the absence of conclusive evidence to the contrary, be assumed that no such resolution had been passed.
+Members should make sure that the minutes contain every *resolution* which was passed at the previous meeting. The minutes are the evidence of what occurred, and if a resolution was omitted by the secretary in writing the minutes, there would be no record at all that the resolution had ever been passed. If the minutes had to be produced in a court of law or elsewhere as evidence, it would, in the absence of conclusive evidence to the contrary, be assumed that no such resolution had been passed.
 
 ### Corrections to the minutes
 
 If a member believes that there is an error in, or an omission from, the minutes, they should not interrupt the reading of the minutes, but when the secretary has finished, the member should insist on the error being rectified. Often the correction will be accepted by the secretary, and inserted at once in the minutes, but if the error is not admitted, the member drawing attention to the point should move an amendment to have the minutes rectified.
 
-The amendment should be seconded by another member, and put to the vote by the chair, who may allow some discussion. If the amendment is carried, the correction must at once be inserted in the margin of the minutes and initialled by the chair. If there are no further errors, the chair should put the motion ‘That the minutes as amended be signed as a correct record’; if there is a majority in fabour, the minutes are declared passed.
+The amendment should be seconded by another member, and put to the vote by the chair, who may allow some discussion. If the amendment is carried, the correction must at once be inserted in the margin of the minutes and initialled by the chair. If there are no further errors, the chair should put the motion ‘That the minutes as amended be signed as a correct record’; if there is a majority in favour, the minutes are declared passed.
 
 ### No rescinding a minute
 
-Sometimes, in order to prevent a resolution passed by an earlier meeting from being put into effect, an attempt may be made to rescind that part of the minutes dealing with such resolution. This procedure should not be accepted by the chair; the expunging of a minute which is an accurate record of a decision previously reached is equivalent to destorying the evidence of the proceedings. The correct method of rescinding a resolution is explained in chapter X.
+Sometimes, in order to prevent a resolution passed by an earlier meeting from being put into effect, an attempt may be made to rescind that part of the minutes dealing with such resolution. This procedure should not be accepted by the chair; the expunging of a minute which is an accurate record of a decision previously reached is equivalent to destroying the evidence of the proceedings. The correct method of rescinding a resolution is explained in [chapter 4](4_debates).
 
 ### Amending minutes of sub-committees
 
 Questioning the minutes of sub-committees which report back to full committees or union branches can be a problem, because when they are presented to the parent body they will not usually have been approved by the sub-committee. If any member of a sub-committee doubts their accuracy, they should raise this before they are discussed by the parent body and if their fellow sub-committee members support them, the minutes can be amended.
 
-Members of the parent body who are not also members of the sub-committee are concerned not with the accuracy of the minutes, but with their *policy* and *recommendations*. Therefore, sub-committee minutes should be dealt with on the lines of delegate reports, as explained in chapter 10. If any items have been referred by the sub-committee to the parent body, the motion for the acceptance of the minutes should read: ‘That the sub-committee's recommendations be endorsed with the exception of those items separately appearing on the Agenda’.
+Members of the parent body who are not also members of the sub-committee are concerned not with the accuracy of the minutes, but with their *policy* and *recommendations*. Therefore, sub-committee minutes should be dealt with on the lines of delegate reports, as explained in [chapter 10](10_reports). If any items have been referred by the sub-committee to the parent body, the motion for the acceptance of the minutes should read: ‘That the sub-committee's recommendations be endorsed with the exception of those items separately appearing on the Agenda’.
 
 ### Matters arising from the minutes
 
 Once the minutes have been passed, it is usual for the chair to ask ‘Are there any questions arising from the minutes?’ to enable members to ask whether any action has been taken on a particular item. The secretary or other officer may then make a brief report on what has been done. The chair should not allow any general discussion on the subject, but must confine it entirely to points of information. If anyone wants certain action to be taken, they should notify the chair and bring the subject forward again at the end of the meeting, under ‘Any Other Business’. Otherwise the meeting might go on discussing the minutes all night to the exclusion of more important business.
 
-If the officers are aware of an important matter relating to something cosnidered at the previous meeting which seems likely to lead to considerable discussions, it should be placed on the agenda as a separate item rather than dealt with under ‘matters arising’.
+If the officers are aware of an important matter relating to something considered at the previous meeting which seems likely to lead to considerable discussions, it should be placed on the agenda as a separate item rather than dealt with under ‘matters arising’.
 
 After matters arising from the minutes have been disposed of, the chair should proceed with the other items on the agenda.
 

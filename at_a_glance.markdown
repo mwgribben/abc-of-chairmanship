@@ -2,34 +2,29 @@
 
 # Branch Procedure at a Glance
 
-    ### A. Commencement
-
+### A. Commencement
 1. Quorum must be present
 2. Chair declares meeting open
 3. Secretary reads notice convening meeting
 4. Chair reads the Agenda
 
-    ### B. Minutes
-
+ ### B. Minutes
 5. Secretary reads the minutes
 6. Motion taken confirming same
 7. No discussion except on their accuracy
 8. Amended if inaccurate or incomplete
 9. Chair signs minutes and initials corrections
 
-    ### C. Correspondence
-
+ ### C. Correspondence
 10. Secretary reads correspondence as a whole
 11. Questions allowed on matters arising
 12. Motions and amendments moved
 13. Correspondence finally passed as read
 
-    *or*
-
+ *or*
 14. Letters are grouped in subject order and each subject treated as a separate item
 
-    ### D. Motions
-
+ ### D. Motions
 15. Must be moved in the affirmative and moved and seconded
 16. Chair reads motion and inquires whether wording is accurate
 17. No alteration or withdrawal except by unanimous consent
