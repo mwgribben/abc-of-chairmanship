@@ -1,7 +1,7 @@
 # Chapter Six
 # Five Types of Amendment
 
-In chapter 5 it was said that there were five types of amendment. This chapter looks at each in turn.
+In [chapter 5](5_amendments) it was said that there were five types of amendment. This chapter looks at each in turn.
 
 ## 1. Amendment to add words (rider or addendum)
 

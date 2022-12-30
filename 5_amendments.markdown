@@ -8,17 +8,17 @@ An amendment is a motion which seeks to alter and improve the original motion. I
 ### Types of amendments
 
 For purpose of description amendments can be divided into five groups:
-1. To add words to the original motions.
+1. To add words to the original motion.
 2. To delete or remove words from the motion.
 3. To delete certain words only, and to substitute certain other words in the motion.
 4. To delete practically the whole of the motion and substitute a counter-proposal.
 5. To amend an amendment.
 
-All these types of amendments will be discussed in chapter 6. This chapter examines the principles which apply to *all* amendments.
+All these types of amendments will be discussed in [chapter 6](6_types_of_amendment). This chapter examines the principles which apply to *all* amendments.
 
 ### General principles
 
-Because ‘amendment’ is merely another name for an amending motion, an amendment is subject to the same general principles as any other motion. Like an original motion, an amendment must be moved, seconded and discussed in accordance with the procedure outlined in chapter 4. Those who move and second must not have spoken on the original motion. Like every other motion, an amendment falls unless it is seconded, except where the standing orders provide that no seconder is needed – for example, in committee. The mover of an amendment cannot, however, reply to the discussion on their amendment.
+Because ‘amendment’ is merely another name for an amending motion, an amendment is subject to the same general principles as any other motion. Like an original motion, an amendment must be moved, seconded and discussed in accordance with the procedure outlined in [chapter 4](4_debates). Those who move and second must not have spoken on the original motion. Like every other motion, an amendment falls unless it is seconded, except where the standing orders provide that no seconder is needed – for example, in committee. The mover of an amendment cannot, however, reply to the discussion on their amendment.
 
 ### Amendments must be relevant
 
@@ -52,7 +52,7 @@ Several amendments may be moved to the same original motion. These must not conf
 
 Some people think that the amendment which is handed up to the chair first must be put first, irrespective of the part of the motion with which it deals. This is incorrect. To prevent confusion, it is best for those amendments which deal with the first part of the motion to be put first. Those which deal with the middle should come next, and those which deal with the last part should be put last. If an amendment has been moved and carried to alter a later part of an original motion, no amendment can be moved afterwards to alter an earlier part of the motion. However, this principle needs to be applied with commonsense. Some amendments may seek to change every sentence of a motion; in such cases, the only advice which can be given is that the chair must use their discretion in deciding which to take first.
 
-It is the chair's duty to see that the amendment are put in their proper sequence, *so before permitting debate on the first amendment the chair should ask the meeting whether there are to be any further amendments*. This will also prevent discussion becoming protracted, because members will need to make up their minds early as to whether they wish to move further amendments and give notice accordingly. See chapter 6 for an example of how this would work in practice.
+It is the chair's duty to see that the amendment are put in their proper sequence, *so before permitting debate on the first amendment the chair should ask the meeting whether there are to be any further amendments*. This will also prevent discussion becoming protracted, because members will need to make up their minds early as to whether they wish to move further amendments and give notice accordingly. See [chapter 6](6_types_of_amendment) for an example of how this would work in practice.
 
 ### One amendment taken at a time
 
@@ -80,7 +80,7 @@ When an amendment is carried, it would cause confusion if the successful amendme
 
 ### Amended motion may itself be amended
 
-Still further motions may be moved to a substantive or amended motion, the procedure being exactly the same as in the case of an amendment to an original motion, except that the mover of the amended motion is not allowed the right of reply. Further amendments are subejct to the general restrictions mentioned on (chapter X) above. Only one such amendment is considered at a time, and each is put to the vote in its turn. If successful, the further amendment takes the place of the amended motion, in the same way as the latter supplanted the original motion. The victorious further amendment then becomes the *new* amended motion. Finally, it is put to the vote as the new *main question* and, if carried, then becomes a resolution.
+Still further motions may be moved to a substantive or amended motion, the procedure being exactly the same as in the case of an amendment to an original motion, except that the mover of the amended motion is not allowed the right of reply. Further amendments are subject to the general restrictions mentioned above. Only one such amendment is considered at a time, and each is put to the vote in its turn. If successful, the further amendment takes the place of the amended motion, in the same way as the latter supplanted the original motion. The victorious further amendment then becomes the *new* amended motion. Finally, it is put to the vote as the new *main question* and, if carried, then becomes a resolution.
 
 ### Putting the main question
 
@@ -94,4 +94,4 @@ On financial motions, a safe method is first to decide the main question as to w
 
 ### Where should the motion be sent?
 
-The mover of a motion should always make clear to whom the resolution is to be sent, and whether action is being requested or whether it is simply for information as an expression of opinion. In the case of a trade union branch dealing directly with an employer about wages, this will be obvious. In other instances it will be less apparent; for exmaple, a resolution by a local political party about education might be intended for consideration by that party nationally, the local education authority, councillors from that party or the teachers' unions.
+The mover of a motion should always make clear to whom the resolution is to be sent, and whether action is being requested or whether it is simply for information as an expression of opinion. In the case of a trade union branch dealing directly with an employer about wages, this will be obvious. In other instances it will be less apparent; for example, a resolution by a local political party about education might be intended for consideration by that party nationally, the local education authority, councillors from that party or the teachers' unions.
