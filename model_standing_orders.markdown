@@ -12,7 +12,7 @@ An Agenda shall be prepared by the chair and secretary, and shall be circulated 
 
 ### 3. Suspension of Standing Orders
 
-In the event of any matter of urgency, however, the chair may accept a motion for the suspension of the Standing Orders. The member moving such suspension must clearly statethe nature and urgency of their business, the numbers of the Standing Orders affected, and the length of time (not exceeding 30 minutes) they desire such suspension to last. No suspension shall take place except by a two thirds majority vote of the members present.
+In the event of any matter of urgency, however, the chair may accept a motion for the suspension of the Standing Orders. The member moving such suspension must clearly state the nature and urgency of their business, the numbers of the Standing Orders affected, and the length of time (not exceeding 30 minutes) they desire such suspension to last. No suspension shall take place except by a two thirds majority vote of the members present.
 
 ### 4. Minutes
 
@@ -40,7 +40,7 @@ The first proposition on any particular subject shall be known as the Original M
 
 ### 10. Substantive motions
 
-If an amendment be carried, it displaces the Original Motion and itself becomes the substantive motion, whereupon any further amendment relating to any portion of the substantive motion may be moved, provided it is consistent with the business and has not been covered by an amendment or motion which has been previously rejected. After the vote on each succeeding amendment has been taken, the surviving proposition shall be put to the vote as the main question, and if carried shall then ebcome a resolution of the meeting.
+If an amendment be carried, it displaces the Original Motion and itself becomes the substantive motion, whereupon any further amendment relating to any portion of the substantive motion may be moved, provided it is consistent with the business and has not been covered by an amendment or motion which has been previously rejected. After the vote on each succeeding amendment has been taken, the surviving proposition shall be put to the vote as the main question, and if carried shall then become a resolution of the meeting.
 
 ### 11. Right of Reply
 
@@ -52,7 +52,7 @@ No motion or amendment which has been accepted by the Chair shall be withdrawn w
 
 ### 13. Closing Debate
 
-The motions for the previous question, next business or the closure may be moved and seconded only by members who have not previously spoken at any time during the debate. No speeches shall be allowed on such motions. In the event of the closure being carried, the mover of the Original Motion shall have the right to reply in accordance with Standing Order number 11, before the question is put. Should any one of the motions mentioned in this Standing Order be defeats, (00) minutes shall elapse before it can be accepted again by the chair, unless they are of the opinion that the circumstances have materially altered in the meantime.
+The motions for the previous question, next business or the closure may be moved and seconded only by members who have not previously spoken at any time during the debate. No speeches shall be allowed on such motions. In the event of the closure being carried, the mover of the Original Motion shall have the right to reply in accordance with Standing Order number 11, before the question is put. Should any one of the motions mentioned in this Standing Order be defeated, (00) minutes shall elapse before it can be accepted again by the chair, unless they are of the opinion that the circumstances have materially altered in the meantime.
 
 ### 14. Adjournment
 
