@@ -25,7 +25,7 @@ But there are occasions when people who have never met before as a group are cal
 
 ### Know the rules and standing orders
 
-The chair's main job is to guide the course of a meeting, and see that the business is transacted not merely in a proper manner but interestingly, so that the interest of members is held and they are encouraged to attend meetings regularly and to participate in them. Without a chair the meeting would drift along aimlessly. This means that the chair, as well as having a thorough understanding of the rules of debate, needs to know the rules and standing orders of their society thoroughly. They should ensure that there is always a copy of them on the table during the meeting for purposes of reference.
+The chair's main job is to guide the course of a meeting, and see that the business is transacted not merely in a proper manner but interestingly, so that the interest of members is held and they are encouraged to attend meetings regularly and to participate in them. Without a chair the meeting would drift along aimlessly. This means that the chair, as well as having a thorough understanding of the rules of debate, needs to know the rules and standing orders of their society thoroughly. They should ensure that there is always a copy of them available during the meeting for purposes of reference.
 
 ### Chair's ruling
 
@@ -45,17 +45,17 @@ In the case of bodies which meet only two or three times a year, the chair may s
 
 ### Attention to detail
 
-The chair should set the tone by paying attention to details – for example by starting meetings on time, be permitting no cross-talking except in committees, by making sure that speakers do not exceed their time limit and by giving them warning that their time is about to run out a minute or so beforehand.
+The chair should set the tone by paying attention to details – for example by starting meetings on time, by permitting no cross-talking except in committees, by making sure that speakers do not exceed their time limit and by giving them warning that their time is about to run out a minute or so beforehand.
 
 ### Addressing the chair
 
-There is on rule which must always be followed – that every contribution from the body of the meeting should be addressed to the chair and not directly to any other individual present – but in other respects meetings of various bodies differ widely in their degree of formality.
+There is one rule which must always be followed – that every contribution from the body of the meeting should be addressed to the chair and not directly to any other individual present – but in other respects meetings of various bodies differ widely in their degree of formality.
 
 ### Formality
 
 For example, should the chair be on first name terms with their members or adopt a more formal style of address? This will depend partly on custom and practice within the body in questions – in general trade unions (and craft unions in particular) tend to be more formal than political parties, and political parties more formal than local pressure groups. So a member of the Boilermakers' Society will expect to be address as ‘Worthy Brother’, while a member of a tenants' association will probably want to be called by their first name. In bodies where there are representatives of various interests or political parties – for example, council committees or school governors – it is best to stick to formal titles.
 
-The degree of formality will also depend on the individual chairing the meeting. An older person may be happier calling someone ‘Mr Smith’; a younger chair may prefer to call them ‘John’. But consistency is important in this – it can lead to accusations of favouritism if the chair calls one member by their first name and the next minute calls someone else ‘Madam’ or ‘Brother’.
+The degree of formality will also depend on the individual chairing the meeting. An older person may be happier calling someone ‘Mrs Smith’; a younger chair may prefer to call them ‘Jane’. But consistency is important in this – it can lead to accusations of favouritism if the chair calls one member by their first name and the next minute calls someone else ‘Madam’ or ‘Brother’.
 
 ### Remember names
 
@@ -71,4 +71,4 @@ Increasingly trade union branches, political parties and local pressure groups a
 
 ### The chair's wider role
 
-From what has been said so far, and from the chapters which follow, it may sound as though the chair's role is mainly that of a referee, interpreting the rules, letting the game flow smoothly and maintaining discipline. That isn't so – unlike a referee, the chair is the most important member of the team. Running meetings efficiently is only part of their job, although perhaps the most important part. The chair should be active between meetings too. If the chair of (for example) a political party fails to take a lead in stimulating discussion, fund-raising, recruitment of members, elections campaigns and all the other things which go on, they should let someone else take over. It is unreasonable to expect ordinary members to participate fully in such activities if the chair does not set an example.
+From what has been said so far, and from the chapters which follow, it may sound as though the chair's role is mainly that of a referee, interpreting the rules, letting the game flow smoothly and maintaining discipline. That isn't so – unlike a referee, the chair is the most important member of the team. Running meetings efficiently is only part of their job, although perhaps the most important part. The chair should be active between meetings too. If the chair of (for example) a political party fails to take a lead in stimulating discussion, fund-raising, recruitment of members, election campaigns and all the other things which go on, they should let someone else take over. It is unreasonable to expect ordinary members to participate fully in such activities if the chair does not set an example.

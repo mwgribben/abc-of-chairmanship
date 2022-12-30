@@ -15,7 +15,7 @@ Although notices of meetings should wherever possible set out the agenda, they m
 
 ### Preparing the agenda
 
-In the case of branch or committee meetings, the agenda is usually prepared by the secretary and submitted to the chair for their approval. If there is a difference of opinion between the chair and the secretary as to whether any particular item should be put to a meeting, or on any other point concerning the agenda, it is the secretary's duty to refer the matter to the committee or the body under whose auspices the meeting is taking place. It is then their job to decide the point. Failing this, the full meeting must decide whether the item is to be included in the agenda or not.
+In the case of branch or committee meetings, the agenda is usually prepared by the secretary and submitted to the chair for their approval. If there is a difference of opinion between the chair and the secretary as to whether any particular item should be put to a meeting, or on any other point concerning the agenda, it is the secretary's duty to refer the matter to the committee or the body under whose auspices the meeting is taking place. It is then that committee's job to decide the point. Failing this, the full meeting must decide whether the item is to be included in the agenda or not.
 
 ### Familiarisation with the issues
 
@@ -71,13 +71,13 @@ If, as was recommended at the beginning of this chapter, a notice of the meeting
 
 ### Any other business
 
-Apart from letting everybody know what is to be discussed, this enables members to prepare to raise points under ‘Any Other Business’ which always comes towards the end of the agenda. At this point in the meeting, or at a convenient early stage, the chair should ask members if any of them will want to raise any points under ‘Any Other Business’, and what these points are. The chair should take these members' names and when ‘Any Other Business’ is reached they should call on them in the order they recorded their names. If at this point someone else who has not previously indicated their intention of doing so tries to raise a new matter, the chair is perfectly entitled to rule that they may not do so. Insisting on advance notice in this way enables the chair to adjust the timing of the meeting, which might otherwise over-run.
+Apart from letting everybody know what is to be discussed, this enables members to prepare to raise points under ‘Any Other Business’ which always comes towards the end of the agenda. At this point in the meeting, or at a convenient early stage, the chair should ask members if any of them will want to raise any points under ‘Any Other Business’, and what these points are. The chair should take these members' names and when ‘Any Other Business’ is reached they should call on these speakers in the order their names were recorded. If at this point someone else who has not previously indicated their intention of doing so tries to raise a new matter, the chair is perfectly entitled to rule that they may not do so. Insisting on advance notice in this way enables the chair to adjust the timing of the meeting, which might otherwise over-run.
 
 ‘Any Other Business’ should not be used to bring up controversial matters and if members try to use it to put forward motions for which they should have given notice, the chair should rule that these motions should be placed on the agenda of the next meeting.
 
 ### Emergency motions
 
-However, ‘Any Other Business’ can be used to bring forward emergency motions. Such motions must concern issues which have arisen *after the agenda has been prepared* and which are *genuinely urgent* – in other words, that action needs to be taken before the next meeting. If the chair is certain that the issue raised falls into this category (and experience suggests that most so-called emergency motions do not do so), they should take the emergency motion first under ‘Any Other Business’, allowing rather more time for it than would be usual under ‘Any Other Business’ as the subject will almost certaily be interesting and controversial. Like all other motions, emergency motions must be seconded (see X).
+However, ‘Any Other Business’ can be used to bring forward emergency motions. Such motions must concern issues which have arisen *after the agenda has been prepared* and which are *genuinely urgent* – in other words, that action needs to be taken before the next meeting. If the chair is certain that the issue raised falls into this category (and experience suggests that most so-called emergency motions do not do so), they should take the emergency motion first under ‘Any Other Business’, allowing rather more time for it than would be usual under ‘Any Other Business’ as the subject will almost certaily be interesting and controversial. Like all other motions, emergency motions must be seconded (see [chapter 3](3_motions)).
 
 ### Items not on the agenda
 

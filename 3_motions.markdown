@@ -1,7 +1,7 @@
 # Chapter Three
 # About Motions
 
-This chapter, and chapters 4 to 7, set out the procedures for dealing with motions and amendments. It may be helpful to refer to appendix B which shows these procedures in the form of flow charts.
+This chapter, and [chapters 4](4_debates) to [7](7_closing), set out the procedures for dealing with motions and amendments. It may be helpful to refer to [appendix B](charts) which shows these procedures in the form of flow charts.
 
 ### Proceeding with the agenda
 
@@ -55,7 +55,7 @@ When a motion is not put in writing but has been taken down in substance by the 
 
 ### Wording cannot be altered without consent of all present
 
-Once a motion has been accepted by the chair, it becomes the property of the meeting. It cannot be withdrawn if even one member dissents, nor can it be altered or amended in any way without the consent of all those present at the meeting. During the discussion on a motion, those responsible for moving it may realise that it is likely to be defeated. They may therefore wish to alter its wording to save it from defeat. If it seems to the chair that most of the members present will be willing to allow an alteration in the wording, even though the substance of the motion will be changed, after reading out the proposed alteration the chair should ask whether any member objects to the revised wording. *Even if only one member objects, the motion must stand*. The correct method by which it should be altered is by means of an amendment moved in the way described in chapter 5. This does not apply to a trivial alteration, but only to an alteration which affects the policy of the motion.
+Once a motion has been accepted by the chair, it becomes the property of the meeting. It cannot be withdrawn if even one member dissents, nor can it be altered or amended in any way without the consent of all those present at the meeting. During the discussion on a motion, those responsible for moving it may realise that it is likely to be defeated. They may therefore wish to alter its wording to save it from defeat. If it seems to the chair that most of the members present will be willing to allow an alteration in the wording, even though the substance of the motion will be changed, after reading out the proposed alteration the chair should ask whether any member objects to the revised wording. *Even if only one member objects, the motion must stand*. The correct method by which it should be altered is by means of an amendment moved in the way described in [chapter 5](5_amendments). This does not apply to a trivial alteration, but only to an alteration which affects the policy of the motion.
 
 In cases where dissent is shown to an alteration which is of such a minor character as to make further discussion a waste of time, the chair need not wait for a formal motion. They can simply ask: ‘All those in favour of the alteration’; then ‘All those against’.
 
@@ -97,11 +97,11 @@ The mover of a motion of which notice has been given may, with the consent of th
 
 ### First motion called ‘original motion’
 
-The first motion which is brought forward on *any particular subject* is called the *original motion*. This distinguishes it from any amendments, or *amending motions* which may be moved later on that same subject. The chair should always refer to it by this name, not only for the sake of clearness, but to make their members familiar with the term. (But this does not mean that the motion which is dealth with under the first item on the agenda is the one and *only* original motion of the meeting. The agenda may be composed of a dozen separate items. Every *item* has its own separate debate, and consequently its own *original motion*.)
+The first motion which is brought forward on *any particular subject* is called the *original motion*. This distinguishes it from any amendments, or *amending motions* which may be moved later on that same subject. The chair should always refer to it by this name, not only for the sake of clearness, but to make their members familiar with the term. (But this does not mean that the motion which is dealt with under the first item on the agenda is the one and *only* original motion of the meeting. The agenda may be composed of a dozen separate items. Every *item* has its own separate debate, and consequently its own *original motion*.)
 
 ### Motions must be moved and seconded
 
-All motions must be moved and seconded; this principle should be embodied in the standing orders. The person proposing the motion is called the mover, and the person seconding it is called the seconder of the motion. Both mover and seconder must be present to pur forward their motion. Very rarely, and only in the case of small committees, should the principle of having a seconder be dispended with because it must be seen that an issue has at least some support to prevent the meeting's time being wasted.
+All motions must be moved and seconded; this principle should be embodied in the standing orders. The person proposing the motion is called the mover, and the person seconding it is called the seconder of the motion. Both mover and seconder must be present to pur forward their motion. Very rarely, and only in the case of small committees, should the principle of having a seconder be dispensed with because it must be seen that an issue has at least some support to prevent the meeting's time being wasted.
 
 ### Relevance of motions
 
