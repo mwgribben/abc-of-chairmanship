@@ -3,7 +3,7 @@
 
 ## Notice of Meetings
 
-Members of societies should always receive a notice of the meeting requesting them to attend. Voluntary organisations – including political parties, trade unions and community groups – should as far as possible represent the views of all their members, and the best way of achieving this is to ensure that members are encouraged to attend meetings regularly by sending them written notices. This should apply unless there are effective substitutes – for example, by useing notice-boards at the workplace for union branch meetings. To ensure maximum participation by members, at least seven days' notice of meetings should be given, particularly when important issues are to be discussed or elections to be held.
+Members of societies should always receive a notice of the meeting requesting them to attend. Voluntary organisations – including political parties, trade unions and community groups – should as far as possible represent the views of all their members, and the best way of achieving this is to ensure that members are encouraged to attend meetings regularly by sending them written notices. This should apply unless there are effective substitutes – for example, by using notice-boards at the workplace for union branch meetings. To ensure maximum participation by members, at least seven days' notice of meetings should be given, particularly when important issues are to be discussed or elections to be held.
 
 ### Notice should set out the agenda
 
