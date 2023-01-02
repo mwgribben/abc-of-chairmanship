@@ -61,18 +61,20 @@
 
       {% if page.url != {{ site.baseurl }} %}
         {% for item in site.data.contents %}
+            {% assign totalpages = forloop.index0 %}
             {% if item.url == page.url %}
                 {% assign pagenum = forloop.index0 %}
-                {% break %}
             {% endif %}
         {% endfor %}
-        {% if pagenum >= 0 %}
             <div>
-                <div>{{ site.data.contents[pagenum - 1].title }}</div>
+                {% if pagenum > 0 %}
+                    <div>{{ site.data.contents[pagenum - 1].title }}</div>
+                {% endif %}
                 <div>{{ site.data.contents.contents_title }}</div>
+                {% if pagenum < totalpages %}
                 <div>{{ site.data.contents[pagenum + 1].title }}</div>
+                {% endif %}
             </div>
-        {% endif %}
       {% endif %}
 
       <footer>
