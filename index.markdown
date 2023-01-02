@@ -1,33 +1,5 @@
-# Contents
+# {{ site.data.contents.contents_title }}
 
-- [Preface](preface)
-- [Editors' Foreword](foreward)
-- [Web Editor's Foreword](new_foreward)
-- [1 Introduction: the chair's role](1_introduction)
-- [2 Notice of meetings, quorom and agenda](2_preparation)
-- [3 About motions](3_motions)
-- [4 Debating a motion](4_debates)
-- [5 Amending a motion](5_amendments)
-- [6 Five types of amendment](6_types_of_amendment)
-- [7 Closing debate](7_closing)
-- [8 Voting and elections](8_voting)
-- [9 Committees](9_committees)
-- [10 Reports, delegations and balance sheet](10_reports)
-- [11 Conferences and public meetings](11_conferences)
-- [12 Keeping order](12_order)
-- [13 Points of order, the right of reply and suspension of standing order](13_points_of_order)
-- [14 Minutes and correspondence](14_minutes)
-- [Epilogue](epilogue)
-
-## Appendices
-- [A Branch procedure at a glance](at_a_glance)
-- [B Flow charts of procedure](charts)
-- [C Model standing orders](model_standing_orders)
-- [D Hints for speakers](hints_for_speakers)
-
-<h2>{{ site.data.contents.contents_title }}</h2>
-<ul>
-   {% for item in site.data.contents.pages %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
+{% for item in site.data.contents.pages %}
+- [{{ item.title }}]({{ item.url }})
+{% endfor %}

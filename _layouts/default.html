@@ -59,6 +59,21 @@
         {{ content }}
       </section>
 
+      {% if page.url != {{ site.baseurl }} %}
+        {% for item in site.data.contents %}
+            {% if item.url == page.url %}
+                {% assign pagenum = forloop.index0 %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+        {% if pagenum >= 0 %}
+            <div>
+                <div>{{ site.data.contents[pagenum - 1].title }}</div>
+                <div>{{ site.data.contents.contents_title }}</div>
+                <div>{{ site.data.contents[pagenum + 1].title }}</div>
+            </div>
+      {% endif %}
+
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
