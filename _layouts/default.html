@@ -67,7 +67,7 @@
         {% endfor %}
             <div>
                 {% if pagenum > 0 %}
-                    {% assign prev_pagenum = (pagenum - 1) %}
+                    {% assign prev_pagenum = (pagenum | minus: 1) %}
                     {% assign prev_page = site.data.contents.pages[prev_pagenum] %}
                     
                     <div><a href={{ prev_page.url }}>{{ prev_page.title }}</a></div>
@@ -76,7 +76,7 @@
                 <div><a href="{{ site.baseurl }}">{{ site.data.contents.contents_title }}</a></div>
                 
                 {% if pagenum < totalpages %}
-                    {% assign next_page =  (pagenum + 1) %}
+                    {% assign next_page =  (pagenum | plus: 1) %}
                     <div>{{ site.data.contents.pages[next_page].title }}</div>
                 {% endif %}
             </div>
