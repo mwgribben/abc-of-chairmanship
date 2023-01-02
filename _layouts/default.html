@@ -68,6 +68,7 @@
             <div>
                 {% if pagenum > 0 %}
                     {% assign prev_pagenum = (pagenum | minus: 1) %}
+                    {{ prev_pagenum }}
                     {% assign prev_page = site.data.contents.pages[prev_pagenum] %}
                     
                     <div><a href={{ prev_page.url }}>{{ prev_page.title }}</a></div>
