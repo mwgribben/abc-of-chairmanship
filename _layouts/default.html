@@ -61,14 +61,14 @@
       {% if page.url != "/" %}
         {% for item in site.data.contents.pages %}
             {% assign totalpages = forloop.length %}
-            {% if item.url == (page.url | remove_first: "/") %}
+            {% if item.url == (page.name | split:'.')[0] %}
                 {% assign pagenum = forloop.index0 %}
             {% endif %}
         {% endfor %}
             <div>
-                URL:{{ page.url }}
-                Name: {{ page.name }}
-                Path: {{ page.path }}
+                Name: {{ (page.name | split:'.')[0] }}
+                Split-Name: {{ page.name | split:'.' }}
+                Strip-Name: {{ (page.name | split:'.')[0] }}
 
                 Page:{{ pagenum }}
 
