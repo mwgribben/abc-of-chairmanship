@@ -1,4 +1,7 @@
-# Chapter Two
+---
+chapter_num : Chapter Two
+---
+
 # Notice of Meetings, Quorum and Agenda
 
 ## Notice of Meetings

@@ -1,4 +1,7 @@
-# Chapter Eight
+---
+chapter_num : Chapter Eight
+---
+
 # Voting and Elections
 
 ## Voting on motions

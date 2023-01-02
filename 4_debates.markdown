@@ -1,4 +1,7 @@
-# Chapter Four
+---
+chapter_num : Chapter Four
+---
+
 # Debating a Motion
 
 ### Moving a motion

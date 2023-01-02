@@ -1,4 +1,7 @@
-# Chapter One
+---
+chapter_num : Chapter One
+---
+
 # Introduction – The Chair's Role
 
 This chapter explains some basic terms and looks at how the chair is elected and at their role.

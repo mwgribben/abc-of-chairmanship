@@ -1,4 +1,6 @@
-# Chapter Ten
+---
+chapter_num : Chapter Ten
+---
 
 # Reports, Delegations, Balance Sheet and Visiting Speakers
 

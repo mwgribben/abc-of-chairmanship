@@ -1,4 +1,7 @@
-# Chapter Three
+---
+chapter_num : Chapter Three
+---
+
 # About Motions
 
 This chapter, and [chapters 4](4_debates) to [7](7_closing), set out the procedures for dealing with motions and amendments. It may be helpful to refer to [appendix B](charts) which shows these procedures in the form of flow charts.

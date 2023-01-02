@@ -1,4 +1,6 @@
-# Chapter Nine
+---
+chapter_num : Chapter Nine
+---
 
 # Committees
 

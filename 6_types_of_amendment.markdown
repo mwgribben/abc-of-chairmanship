@@ -1,4 +1,7 @@
-# Chapter Six
+---
+chapter_num : Chapter Six
+---
+
 # Five Types of Amendment
 
 In [chapter 5](5_amendments) it was said that there were five types of amendment. This chapter looks at each in turn.

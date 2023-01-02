@@ -1,4 +1,6 @@
-# Appendix D
+---
+chapter_num : Appendix D
+---
 
 # Hints for Speakers
 

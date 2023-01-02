@@ -1,4 +1,6 @@
-# Chapter Eleven
+---
+chapter_num : Chapter Eleven
+---
 
 # Conferences and Public Meetings
 
