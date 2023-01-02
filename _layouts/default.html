@@ -59,7 +59,6 @@
         {{ content }}
       </section>
       {% if page.url != "/" %}
-        {% assign split_name = page.name | split:'.' %}
         {% for item in site.data.contents.pages %}
             {% assign totalpages = forloop.length %}
             {% if page.url contains item.url %}
@@ -67,11 +66,9 @@
             {% endif %}
         {% endfor %}
             <div>
-                Page:{{ pagenum }}
-
-                Out of: {{ totalpages }}
                 {% if pagenum > 0 %}
-                    <div>{{ site.data.contents.pages[pagenum - 1].title }}</div>
+                    {% assign prev_page = site.data.contents.pages[pagenum - 1] %}
+                    <div>{{ prev_page.title }}</div>
                 {% endif %}
                 <div><a href="{{ site.baseurl }}">{{ site.data.contents.contents_title }}</a></div>
                 {% if pagenum < totalpages %}
