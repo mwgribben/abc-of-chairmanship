@@ -58,7 +58,7 @@
         {{ content }}
       </section>
       {% if page.url != "/" %}
-        {% for item in site.data.contents %}
+        {% for item in site.data.contents.pages %}
             {% assign totalpages = forloop.length %}
             {% if item.url == page.url %}
                 {% assign pagenum = forloop.index0 %}
