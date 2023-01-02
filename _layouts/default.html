@@ -73,7 +73,7 @@
                 
                 <div id="contents_link"><a href="{{ site.baseurl }}">{{ site.data.contents.contents_title }}</a></div>
                 
-                {% if pagenum < totalpages %}
+                {% if pagenum < totalpages - 1 %}
                     {% assign next_page =  pagenum | plus: 1 %}
                     <div id="next_link"><a href={{ site.data.contents.pages[next_page].url}}>{{ site.data.contents.pages[next_page].title }} &#8594;</a></div>
                 {% endif %}
