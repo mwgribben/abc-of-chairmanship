@@ -59,25 +59,21 @@
         {{ content }}
       </section>
       {% if page.url != "/" %}
+        {% assign split_name = page.name | split:'.' %}
         {% for item in site.data.contents.pages %}
             {% assign totalpages = forloop.length %}
-            {% if item.url == (page.name | split:'.')[0] %}
+            {% if page.url contains item.url %}
                 {% assign pagenum = forloop.index0 %}
             {% endif %}
         {% endfor %}
             <div>
-                Name: {{ page.name }}
-                {% assign split_name = page.name | split:'.' %}
-                Split-Name: {{ split_name }}
-                Strip-Name: {{ split_name[0] }}
-
                 Page:{{ pagenum }}
 
                 Out of: {{ totalpages }}
                 {% if pagenum > 0 %}
                     <div>{{ site.data.contents.pages[pagenum - 1].title }}</div>
                 {% endif %}
-                <div>{{ site.data.contents.contents_title }}</div>
+                <div><a href="{{ site.baseurl }}">{{ site.data.contents.contents_title }}</a></div>
                 {% if pagenum < totalpages %}
                 <div>{{ site.data.contents.pages[pagenum + 1].title }}</div>
                 {% endif %}
