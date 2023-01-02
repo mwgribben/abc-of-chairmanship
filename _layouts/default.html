@@ -67,7 +67,6 @@
         {% endfor %}
             <div id="nav_links">
                 {% if pagenum > 0 %}
-                    Page: {{ pagenum }}
                     {% assign prev_page = pagenum | minus: 1 %}         
                     <a href={{ site.data.contents.pages[prev_page].url }}></a>{{ site.data.contents.pages[prev_page].title }}
                 {% endif %}
