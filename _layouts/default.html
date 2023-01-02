@@ -65,8 +65,9 @@
             {% endif %}
         {% endfor %}
             <div>
-                {{ pagenum }}
-                {{ totalpages }}
+                Page:{{ pagenum }}
+
+                Out of: {{ totalpages }}
                 {% if pagenum > 0 %}
                     <div>{{ site.data.contents.pages[pagenum - 1].title }}</div>
                 {% endif %}
