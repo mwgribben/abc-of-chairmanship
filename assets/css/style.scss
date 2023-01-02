@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 #chapter_num {
+    margin-bottom: -60px;
     font-family: 'Open Sans', Myriad, Calibri, sans-serif;
     font-weight: bold;
     color: #7c334f;
@@ -37,4 +38,8 @@
     grid-column: 3;
     grid-row: 1;
     text-align:right;
+}
+
+a .ribbon-inner {
+    text-decoration: none;
 }
