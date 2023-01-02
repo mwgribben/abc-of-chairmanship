@@ -67,8 +67,9 @@
         {% endfor %}
             <div>
                 Name: {{ page.name }}
-                Split-Name: {{ page.name | split:'.' }}
-                Strip-Name: {{ (page.name | split:'.')[0] }}
+                {% assign split_name = page.name | split:'.' %}
+                Split-Name: {{ split_name }}
+                Strip-Name: {{ split_name[0] }}
 
                 Page:{{ pagenum }}
 
