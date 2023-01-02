@@ -55,12 +55,13 @@
 
 
       <section id="main_content">
+        <div id="chapter_num">{{ page.chapter_num }}</div>
         {{ content }}
       </section>
       {% if page.url != "/" %}
         {% for item in site.data.contents.pages %}
             {% assign totalpages = forloop.length %}
-            {% if item.url == page.url %}
+            {% if item.url == (page.url | remove_first: "/") %}
                 {% assign pagenum = forloop.index0 %}
             {% endif %}
         {% endfor %}
