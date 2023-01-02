@@ -68,11 +68,11 @@
                 {{ pagenum }}
                 {{ totalpages }}
                 {% if pagenum > 0 %}
-                    <div>{{ site.data.contents[pagenum - 1].title }}</div>
+                    <div>{{ site.data.contents.pages[pagenum - 1].title }}</div>
                 {% endif %}
                 <div>{{ site.data.contents.contents_title }}</div>
                 {% if pagenum < totalpages %}
-                <div>{{ site.data.contents[pagenum + 1].title }}</div>
+                <div>{{ site.data.contents.pages[pagenum + 1].title }}</div>
                 {% endif %}
             </div>
       {% endif %}
