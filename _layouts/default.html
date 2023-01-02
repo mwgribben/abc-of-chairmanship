@@ -58,9 +58,7 @@
       <section id="main_content">
         {{ content }}
       </section>
-      {{ page.url }}
-      {{ site.baseurl }}
-      {% if page.url != {{ site.baseurl }} %}
+      {% if page.url != "/" %}
         {% for item in site.data.contents %}
             {% assign totalpages = forloop.index0 %}
             {% if item.url == page.url %}
@@ -68,6 +66,8 @@
             {% endif %}
         {% endfor %}
             <div>
+                {{ pagenum }}
+                {{ totalpages }}
                 {% if pagenum > 0 %}
                     <div>{{ site.data.contents[pagenum - 1].title }}</div>
                 {% endif %}
