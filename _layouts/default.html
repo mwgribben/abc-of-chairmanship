@@ -58,7 +58,8 @@
       <section id="main_content">
         {{ content }}
       </section>
-
+      {{ page.url }}
+      {{ site.baseurl }}
       {% if page.url != {{ site.baseurl }} %}
         {% for item in site.data.contents %}
             {% assign totalpages = forloop.index0 %}
