@@ -65,21 +65,18 @@
                 {% assign pagenum = forloop.index0 %}
             {% endif %}
         {% endfor %}
-            <div>
+            <div id="nav_links">
                 {% if pagenum > 0 %}
                     Page: {{ pagenum }}
-                    {% assign prev_pagenum = pagenum | minus: 1 %}
-                    Previous: {{ prev_pagenum }}
-                    {% assign prev_page = site.data.contents.pages[prev_pagenum] %}
-                    
-                    <div><a href={{ prev_page.url }}>{{ prev_page.title }}</a></div>
+                    {% assign prev_page = pagenum | minus: 1 %}         
+                    <a href={{ site.data.contents.pages[prev_page].url }}></a>{{ site.data.contents.pages[prev_page].title }}
                 {% endif %}
                 
                 <div><a href="{{ site.baseurl }}">{{ site.data.contents.contents_title }}</a></div>
                 
                 {% if pagenum < totalpages %}
                     {% assign next_page =  pagenum | plus: 1 %}
-                    <div>{{ site.data.contents.pages[next_page].title }}</div>
+                    <div><a href={{ site.data.contents.pages[next_page].url }}></a>{{ site.data.contents.pages[next_page].title }}</div>
                 {% endif %}
             </div>
       {% endif %}
