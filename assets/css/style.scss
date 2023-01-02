@@ -17,8 +17,8 @@
     max-width: 500px;
     margin: 20px auto 10px;
     display:grid;
-    grid-template-columns: 3;
-    grid-template-rows: 1;
+    grid-template-columns: 1fr auto 1fr;
+    grid-template-rows: auto;
     justify-content: space-between;
 }
 
@@ -35,4 +35,5 @@
 #next_link {
     grid-column: 3;
     grid-row: 1;
+    text-align:right;
 }
