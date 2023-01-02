@@ -1,4 +1,7 @@
-# Chapter Seven
+---
+chapter_num : Chapter Seven
+---
+
 # Closing Debate
 
 It was suggested in [chapter 4](4_debates) that the chair should use their discretion about when to close a debate. The standing orders of some bodies expressly give this power; even where they do not do so, the chair is within their rights to close the debate. But particularly where the discussion has aroused strong feelings, or where a very important decision is to be made, there is a danger that if the chair closes the debate on their own initiative, they may be accused of favouring one side of the case to the detriment of the other.
