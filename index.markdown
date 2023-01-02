@@ -24,3 +24,10 @@
 - [B Flow charts of procedure](charts)
 - [C Model standing orders](model_standing_orders)
 - [D Hints for speakers](hints_for_speakers)
+
+<h2>{{ site.data.contents.contents_title }}</h2>
+<ul>
+   {% for item in site.data.contents.pages %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
