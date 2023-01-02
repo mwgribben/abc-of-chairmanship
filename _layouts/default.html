@@ -68,14 +68,14 @@
             <div id="nav_links">
                 {% if pagenum > 0 %}
                     {% assign prev_page = pagenum | minus: 1 %}         
-                    <div id="prev_link"><a href={{ site.data.contents.pages[prev_page].url}}>{{ site.data.contents.pages[prev_page].title }}</a></div>
+                    <div id="prev_link"><a href={{ site.data.contents.pages[prev_page].url}}>&#8592; {{ site.data.contents.pages[prev_page].title }}</a></div>
                 {% endif %}
                 
                 <div id="contents_link"><a href="{{ site.baseurl }}">{{ site.data.contents.contents_title }}</a></div>
                 
                 {% if pagenum < totalpages %}
                     {% assign next_page =  pagenum | plus: 1 %}
-                    <div id="next_link"><a href={{ site.data.contents.pages[next_page].url}}>{{ site.data.contents.pages[next_page].title }}</a></div>
+                    <div id="next_link"><a href={{ site.data.contents.pages[next_page].url}}>{{ site.data.contents.pages[next_page].title }} &#8594;</a></div>
                 {% endif %}
             </div>
       {% endif %}
