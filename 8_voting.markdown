@@ -46,7 +46,7 @@ But occasionally there may be a genuine misunderstanding by many people in the m
 
 ### Nem Con
 
-It is frequently unnecessary to take a record of the voting at meetings and it usually sufficient to record the motions as ‘Carried by a large majority’ or ‘Defeated by general consent’. It is not always safe to suppose, because nobody votes against a motion, that it is carried *unanimously*. For a motion to be carried unanimously everybody present must vote in favour. It does not mean only that nobody must vote against it. It is not unanimmous if some members abstain. The safest method if therefore to record the motion as carried or lost *nem com* (from the Latin *nemine contradicente*, which means no one contradiciting).
+It is frequently unnecessary to take a record of the voting at meetings and it usually sufficient to record the motions as ‘Carried by a large majority’ or ‘Defeated by general consent’. It is not always safe to suppose, because nobody votes against a motion, that it is carried *unanimously*. For a motion to be carried unanimously everybody present must vote in favour. It does not mean only that nobody must vote against it. It is not unanimous if some members abstain. The safest method if therefore to record the motion as carried or lost *nem com* (from the Latin *nemine contradicente*, which means no one contradiciting).
 
 ## Voting on election of committees and officers
 

@@ -14,7 +14,7 @@ In dealing with the agenda, the meeting has to adopt certain methods to put on r
 
 Any proposition or suggestion which is properly put forward at a meeting for consideration and adoption in the manner described below is a motion. No matter by what formal name it may be known, it is really in the strict sense a motion. There are several kinds of motions with different names to describe them. All these types are fully described later. But it is essential to remember that all of them are motions.
 
-Strictly speaking, because a motion should declare or proclaim something, each motion should begin with the work ‘That‘. This practice is followed in Parliament and by local authorities, although it seems to have largely gone out of use elsewhere.
+Strictly speaking, because a motion should declare or proclaim something, each motion should begin with the work ‘That’. This practice is followed in Parliament and by local authorities, although it seems to have largely gone out of use elsewhere.
 
 ### Motions should propose action
 
