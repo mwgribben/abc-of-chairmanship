@@ -26,7 +26,7 @@ Motions which are purely negative in character should not be accepted. It is not
 
 For example, a union branch meeting might have a letter inviting it to send representatives to a conference. A motion might be moved ‘That no action be taken’. Although this is quite a usual form of motion, strictly speaking it is out of order because it is a *negative* motion. A better motion would be: ‘That this meeting is of the opinion that no useful purpose would be served by sending representatives to this conference, and declines to do so’.
 
-### Securing a negative results
+### Securing a negative result
 
 This places on record the opinion of the meeting and declares the principle that no good purpose would be served by attending. At first sight it may apper to be quite as negative as ‘no action’. But actually it is much more definite as it clearly records the determination of the meeting not to accept the invitation. The motion ‘That no action be taken’ in fact neither rejects nor accepts the invitation, but merely leaves the question in a state of indecision and in theory a motion accepting the invitation could be moved at a subsequent meeting. This could be done without rescinding the motion ‘That no action be taken’. The important thing is to make sure that the motion really does dispose of the matter.
 
