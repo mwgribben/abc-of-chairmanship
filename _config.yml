@@ -26,6 +26,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://chair.guide" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _gribben_
 github_username:  mwgribben
+google_analytics: G-9ERX7WEL6R
 
 # Build settings
 remote_theme: pages-themes/merlot@v0.2.0
