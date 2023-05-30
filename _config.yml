@@ -22,8 +22,8 @@ title: ABC of Chairing
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A summary of the definitive guide by Walter Citrine, originally published 1939.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://chair.guide" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _gribben_
 github_username:  mwgribben
 
