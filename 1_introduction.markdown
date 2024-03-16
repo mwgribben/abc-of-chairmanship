@@ -8,7 +8,7 @@ This chapter explains some basic terms and looks at how the chair is elected and
 
 ### Rules of debate
 
-There is no legal code of rules applying to meetings (except in the case of public authorities and limited companies, where the law specifies what can and cannot be done). However, there are certain procedures which are generally adopted and which lay down the methods by which meetings should be conducted. Most of these rules are based upon the rules which govern the conduct of business in the House of Commons. They are usually referred to as ‘the rules of debate’ – that is, customs and practices which are in general use and which do not vary very much from one society or body to another. These rules are fully discussed in [chapters 3](3_motions) to 7.
+There is no legal code of rules applying to meetings (except in the case of public authorities and limited companies, where the law specifies what can and cannot be done). However, there are certain procedures which are generally adopted and which lay down the methods by which meetings should be conducted. Most of these rules are based upon the rules which govern the conduct of business in the House of Commons. They are usually referred to as ‘the rules of debate’ – that is, customs and practices which are in general use and which do not vary very much from one society or body to another. These rules are fully discussed in [chapters 3 to 7](3_motions).
 
 ### Standing orders
 
