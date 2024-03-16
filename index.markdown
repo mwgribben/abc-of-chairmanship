@@ -1,4 +1,4 @@
-# {{ site.data.contents.contents_title }}
+# Contents
 
 {% for item in site.data.contents.pages %}
 - [{{ item.title }}]({{ item.url }})
