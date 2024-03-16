@@ -28,7 +28,7 @@
 
       <header>
         <span class="ribbon-outer">
-          <a class="ribbon-inner" href="{{ site.baseurl }}">
+          <a class="ribbon-inner" href="{{ site.baseurl }}/">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
           </a>
@@ -71,7 +71,7 @@
                     <div id="prev_link"><a href={{ site.data.contents.pages[prev_page].url}}>&#8592; {{ site.data.contents.pages[prev_page].title }}</a></div>
                 {% endif %}
                 
-                <div id="contents_link"><a href="{{ site.baseurl }}">{{ site.data.contents.contents_title }}</a></div>
+                <div id="contents_link"><a href="{{ site.baseurl }}/">{{ site.data.contents.contents_title }}</a></div>
                 
                 {% if pagenum < totalpages - 1 %}
                     {% assign next_page =  pagenum | plus: 1 %}
