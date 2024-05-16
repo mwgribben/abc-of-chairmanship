@@ -45,9 +45,11 @@ a .ribbon-inner {
   text-decoration: none;
 }
 
-.gsc-control-cse table, .gsc-control-cse td {
-  background-color: inherit;
-  border: none;
-  margin: 0px;
+.gsc-control-cse {
   text-align: left;
+  table, td {
+    background-color: inherit;
+    border: none;
+    margin: 0px;
+  }
 }
