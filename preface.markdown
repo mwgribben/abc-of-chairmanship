@@ -1,3 +1,7 @@
+---
+last_modified_at: 2023-01-02
+---
+
 # Preface
 
 Some years ago I wrote a Handbook called *The Labour Chairman* which dealt with the methods of conducting meetings.

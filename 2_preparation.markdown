@@ -1,5 +1,6 @@
 ---
 chapter_num : Chapter Two
+last_modified_at: 2023-01-02
 ---
 
 # Notice of Meetings, Quorum and Agenda

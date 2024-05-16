@@ -1,3 +1,7 @@
+---
+last_modified_at: 2023-01-02
+---
+
 # Editors' Foreward
 
 Particularly in trade union and Labour Party circles, the *ABC of Chairmanship* has been considered a definitive guide since its publication in 1939. But it was last revised in 1952. Procedures and practices have changed since then, although mainly in minor respects; the considerable influence exerted by the *ABC* itself has been a factor in this. Although in updating the book we have taken modern developments into account and employed new examples, we have made few fundamental changes. Readers used to the structure of earlier editions will find the overall layout familiar, although parts of the text have been abbreviated.

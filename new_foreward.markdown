@@ -1,3 +1,7 @@
+---
+last_modified_at: 2023-01-02
+---
+
 # Web Editor's Foreward
 
 Forty years ago, the editors of this updated text noted the ongoing influence of Walter Citrine's *ABC of Chairmanship* across the union and Labour movement since its original publication in 1939. Remarkably this has continued into the twenty-first century, and any thorough excavation of the rules and order of most modern organisations of this type will show their basis in Citrine's original standard.

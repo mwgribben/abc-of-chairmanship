@@ -1,5 +1,6 @@
 ---
 chapter_num : Chapter Seven
+last_modified_at: 2023-01-02
 ---
 
 # Closing Debate
