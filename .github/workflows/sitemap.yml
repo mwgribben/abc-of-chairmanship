@@ -20,6 +20,8 @@ jobs:
       uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://chair.guide/
+        include-html: false
+        additional-extensions: md
 
     - name: Output stats
       run: |
