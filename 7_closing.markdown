@@ -1,6 +1,7 @@
 ---
 chapter_num : Chapter Seven
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/7_closing'
 ---
 
 # Closing Debate

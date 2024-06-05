@@ -1,6 +1,7 @@
 ---
 chapter_num : Appendix A
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/at_a_glance'
 ---
 
 # Branch Procedure at a Glance

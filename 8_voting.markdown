@@ -1,6 +1,7 @@
 ---
 chapter_num : Chapter Eight
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/8_voting'
 ---
 
 # Voting and Elections

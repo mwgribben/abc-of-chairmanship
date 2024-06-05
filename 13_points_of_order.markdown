@@ -1,6 +1,7 @@
 ---
 chapter_num : Chapter Thirteen
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/13_points_of_order'
 ---
 
 # Points of Order, the Right of Reply and Suspension of Standing Orders

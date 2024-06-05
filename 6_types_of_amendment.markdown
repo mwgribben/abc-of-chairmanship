@@ -1,6 +1,7 @@
 ---
 chapter_num : Chapter Six
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/6_types_of_amendment'
 ---
 
 # Five Types of Amendment

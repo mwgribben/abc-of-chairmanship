@@ -1,6 +1,7 @@
 ---
 chapter_num : Chapter Ten
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/10_reports'
 ---
 
 # Reports, Delegations, Balance Sheet and Visiting Speakers

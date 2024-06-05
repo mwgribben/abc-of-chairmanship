@@ -1,6 +1,7 @@
 ---
 chapter_num : Chapter Two
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/2_preparation'
 ---
 
 # Notice of Meetings, Quorum and Agenda

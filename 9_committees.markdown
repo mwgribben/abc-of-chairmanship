@@ -1,6 +1,7 @@
 ---
 chapter_num : Chapter Nine
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/9_committees'
 ---
 
 # Committees

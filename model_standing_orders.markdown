@@ -1,6 +1,7 @@
 ---
 chapter_num : Appendix C
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/model_standing_orders'
 ---
 
 # Model Standing Orders

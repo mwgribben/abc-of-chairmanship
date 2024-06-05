@@ -1,6 +1,7 @@
 ---
 chapter_num : Chapter One
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/1_introduction'
 ---
 
 # Introduction – The Chair's Role

@@ -2,6 +2,7 @@
 chapter_num : Appendix B
 mermaid: true
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/charts'
 ---
 
 # Flow charts of Procedure

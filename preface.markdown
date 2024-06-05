@@ -1,5 +1,6 @@
 ---
 last_modified_at: 2023-01-02
+canonical_url: 'https://chair.guide/preface'
 ---
 
 # Preface
