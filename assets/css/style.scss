@@ -12,6 +12,48 @@
   text-align: center;
 }
 
+header .site-title {
+  background-color: #7c334f;
+  margin: 0;
+  padding: 14px 20px 0;
+  color: #ece4d8;
+  font-family: "Open Sans", Myriad, Calibri, sans-serif;
+  font-size: 2.5em;
+  font-weight: 800;
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+header .site-description {
+  background-color: #7c334f;
+  margin: -3px 0 0;
+  padding-bottom: 14px;
+  color: #e69b95;
+  font: bold italic .85em/1.5 Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+.skip-link {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  left: 1rem;
+  padding: .6rem 1rem;
+  background: #fff6e9;
+  color: #544943;
+  transform: translateY(-120%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+a:focus-visible {
+  outline: 3px solid #7c334f;
+  outline-offset: 3px;
+}
+
 #nav_links {
   position: relative;
   z-index: 2;

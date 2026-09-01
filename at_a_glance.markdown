@@ -122,7 +122,7 @@ canonical_url: 'https://chair.guide/at_a_glance'
 56. See 46
 57. When adjournment of debate is carried, debate resumed on date specified
 58. If no date mentioned, main debate is shelved
-59. Adjournment of meeting supercedes main question
+59. Adjournment of meeting supersedes main question
 60. Adjournment of meeting may also be moved as a motion when no other question is under discussion
 61. When carried, Chair declares meeting closed
 62. See 33

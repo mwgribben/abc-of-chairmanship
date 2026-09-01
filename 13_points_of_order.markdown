@@ -62,7 +62,7 @@ Under no circumstances should the right of reply be allowed to the mover of an a
 
 ### No new matter allowed in reply
 
-In exercising the right of reply, the mover must confine themselves to answering the arguments which have been advanced. But, although new matter is forbidden, many debators contrive to bring in new facts and fresh arguments, sometimes to such an extent as to make out practically a new case. If the chair is puzzled about whether to intervene or not, it is best to give the speaker the benefit of the doubt. If the speaker goes too far it is almost certain that some of the members will call the chair's attention to the fact, and it is much easier for the chair to intervene in that event.
+In exercising the right of reply, the mover must confine themselves to answering the arguments which have been advanced. But, although new matter is forbidden, many debaters contrive to bring in new facts and fresh arguments, sometimes to such an extent as to make out practically a new case. If the chair is puzzled about whether to intervene or not, it is best to give the speaker the benefit of the doubt. If the speaker goes too far it is almost certain that some of the members will call the chair's attention to the fact, and it is much easier for the chair to intervene in that event.
 
 ### Replying to an amendment
 
