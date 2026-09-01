@@ -1,6 +1,9 @@
 ---
 last_modified_at: 2023-01-02
-canonical_url: 'https://chair.guide/new_foreward'
+canonical_url: 'https://chair.guide/new_foreword'
+permalink: /new_foreword
+redirect_from:
+  - /new_foreward
 ---
 
 # Web Editor's Foreword
