@@ -40,7 +40,7 @@ The second type of motion for closing debate is that which gets rid of the subje
 
 ### ‘Next business’
 
-The usual way of doing this is to move ‘The the meeting proceeds to the next business.’ Unlike a closure motion, as it raises a new issue there may be discussion on it (including contributions from those who have already spoken on the original motion), but speeches must be directed to the need for proceeding to the next business and must not wander on to the original motion. However, it is unusual to allow speeches on a motion of ‘next business’.
+The usual way of doing this is to move ‘That the meeting proceeds to the next business.’ Unlike a closure motion, as it raises a new issue there may be discussion on it (including contributions from those who have already spoken on the original motion), but speeches must be directed to the need for proceeding to the next business and must not wander on to the original motion. However, it is unusual to allow speeches on a motion of ‘next business’.
 
 Next business may be moved at any time, even when an amendment is under consideration, so long as the debate has been going on for a reasonable period. If next business is carried, no vote is taken on the main question, and the meeting proceeds to the next item on the agenda. The undesirable motion, together with its amendments, is thereby shelved, and cannot again be raised during the current meeting, although it can be introduced as a new motion at a later meeting. If the motion for next business is lost, the discussion on the main issue is resumed.
 
@@ -54,7 +54,7 @@ The expression ’I move progress’ may sometimes be used by members wishing to
 
 ## (c) Motion postponing a decision
 
-The third method of disposing of a motion is by means of an adjournment. This may be moved for the same reasons as ‘next business’, or may be put to allow the members a period of time in which to gain more information about the subject under disucssion. The adjournment may be moved for (a) adjourning the debate on a particular subject, or (b) adjourning the meeting as a whole. Either of these motions may be moved at any time, even though an amendment is before the meeting. Where they are moved for the genuine purposes of an adjournment, and not to shelve the question entirely, amendments specifying the date of resumption may be moved to the motion for the adjournment.
+The third method of disposing of a motion is by means of an adjournment. This may be moved for the same reasons as ‘next business’, or may be put to allow the members a period of time in which to gain more information about the subject under discussion. The adjournment may be moved for (a) adjourning the debate on a particular subject, or (b) adjourning the meeting as a whole. Either of these motions may be moved at any time, even though an amendment is before the meeting. Where they are moved for the genuine purposes of an adjournment, and not to shelve the question entirely, amendments specifying the date of resumption may be moved to the motion for the adjournment.
 
 ### Adjournment of debate
 
@@ -72,7 +72,7 @@ If the adjournment of the meeting is moved as a separate motion when there is no
 
 ### Only one adjournment motion at a time
 
-It is out of order to move adjournment motions one upon another. If a motion ‘That the meeting be adjourned’ had been moved, someone who did not want the *meeting* to end but only the *debate* on a particularly motion, might try to move ‘That the *debate* be adjourned’. This could not be accepted as an amendment, but if the motion for the adjournment of the meeting was defeated, it would be in order, after a reasonable period had elapsed, to move the adjournment of the debate. 
+It is out of order to move adjournment motions one upon another. If a motion ‘That the meeting be adjourned’ had been moved, someone who did not want the *meeting* to end but only the *debate* on a particular motion, might try to move ‘That the *debate* be adjourned’. This could not be accepted as an amendment, but if the motion for the adjournment of the meeting was defeated, it would be in order, after a reasonable period had elapsed, to move the adjournment of the debate.
 
 ### Reasonable time before further motion
 

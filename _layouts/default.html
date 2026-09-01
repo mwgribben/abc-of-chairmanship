@@ -24,13 +24,14 @@
   </head>
 
   <body>
+    <a class="skip-link" href="#main_content">Skip to main content</a>
    <div class="shell">
 
       <header>
         <span class="ribbon-outer">
           <a class="ribbon-inner" href="{{ '/' | relative_url }}">
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+            <p class="site-title">{{ site.title | default: site.github.repository_name }}</p>
+            <p class="site-description">{{ site.description | default: site.github.project_tagline }}</p>
           </a>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -54,10 +55,12 @@
       <span class="banner-fix"></span>
 
       
-      <section id="main_content">
-        <div id="chapter_num">{{ page.chapter_num }}</div>
+      <main id="main_content" tabindex="-1">
+        {% if page.chapter_num %}
+          <div id="chapter_num">{{ page.chapter_num }}</div>
+        {% endif %}
         {{ content }}
-      </section>
+      </main>
       {% if page.url != "/" %}
         {% for item in site.data.contents.pages %}
             {% assign totalpages = forloop.length %}
@@ -65,7 +68,7 @@
                 {% assign pagenum = forloop.index0 %}
             {% endif %}
         {% endfor %}
-            <div id="nav_links">
+            <nav id="nav_links" aria-label="Chapter navigation">
                 {% if pagenum > 0 %}
                     {% assign prev_page = pagenum | minus: 1 %}         
                     <div id="prev_link"><a href="{{ site.data.contents.pages[prev_page].url | relative_url }}">&#8592; {{ site.data.contents.pages[prev_page].title }}</a></div>
@@ -78,7 +81,7 @@
                     {% assign next_page =  pagenum | plus: 1 %}
                     <div id="next_link"><a href="{{ site.data.contents.pages[next_page].url | relative_url }}">{{ site.data.contents.pages[next_page].title }} &#8594;</a></div>
                 {% endif %}
-            </div>
+            </nav>
       {% endif %}
       
       <footer>

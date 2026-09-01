@@ -16,11 +16,11 @@ In dealing with the agenda, the meeting has to adopt certain methods to put on r
 
 Any proposition or suggestion which is properly put forward at a meeting for consideration and adoption in the manner described below is a motion. No matter by what formal name it may be known, it is really in the strict sense a motion. There are several kinds of motions with different names to describe them. All these types are fully described later. But it is essential to remember that all of them are motions.
 
-Strictly speaking, because a motion should declare or proclaim something, each motion should begin with the work ‘That’. This practice is followed in Parliament and by local authorities, although it seems to have largely gone out of use elsewhere.
+Strictly speaking, because a motion should declare or proclaim something, each motion should begin with the word ‘That’. This practice is followed in Parliament and by local authorities, although it seems to have largely gone out of use elsewhere.
 
 ### Motions should propose action
 
-But most motions do not confine themselves simple to declaring a point of view. They also propose some definite action. They will usually make a declaration of principle, and then propose certain methods to carry out that principle. A motion which merely expresses an opinion or a wish is known as a ‘pious’ motion. The wording of a motion should be concise and clear, and should not go over the same ground as a motion which has been moved earlier at the same meeting.
+But most motions do not confine themselves simply to declaring a point of view. They also propose some definite action. They will usually make a declaration of principle, and then propose certain methods to carry out that principle. A motion which merely expresses an opinion or a wish is known as a ‘pious’ motion. The wording of a motion should be concise and clear, and should not go over the same ground as a motion which has been moved earlier at the same meeting.
 
 ### Negative motions
 
@@ -30,11 +30,11 @@ For example, a union branch meeting might have a letter inviting it to send repr
 
 ### Securing a negative result
 
-This places on record the opinion of the meeting and declares the principle that no good purpose would be served by attending. At first sight it may apper to be quite as negative as ‘no action’. But actually it is much more definite as it clearly records the determination of the meeting not to accept the invitation. The motion ‘That no action be taken’ in fact neither rejects nor accepts the invitation, but merely leaves the question in a state of indecision and in theory a motion accepting the invitation could be moved at a subsequent meeting. This could be done without rescinding the motion ‘That no action be taken’. The important thing is to make sure that the motion really does dispose of the matter.
+This places on record the opinion of the meeting and declares the principle that no good purpose would be served by attending. At first sight it may appear to be quite as negative as ‘no action’. But actually it is much more definite as it clearly records the determination of the meeting not to accept the invitation. The motion ‘That no action be taken’ in fact neither rejects nor accepts the invitation, but merely leaves the question in a state of indecision and in theory a motion accepting the invitation could be moved at a subsequent meeting. This could be done without rescinding the motion ‘That no action be taken’. The important thing is to make sure that the motion really does dispose of the matter.
 
 ### Motion ‘That the letter lie on table’ or ‘be noted’
 
-Sometimes a motion ‘That the letter lie on the table’ is moved to prevent further action. This is not really effective because, if it is strictly interpreted, it means that the letter should be brought up at *every* subsequent meeting. It simple defers taking action. If the words ‘until called for’ are added to this motion, it even then does not dispose of the question entirely, but merely *suspends* judgement to a future date. At a future meeting any member could move that the letter be then considered. There would be no need to rescind the previous resolution. Unless it is genuinely desired to postpone consideration, it is better to move something definite. A similar point might also sometimes apply to the motion ‘That the letter be noted’, although this is primarily intended to record that the matter has been considered.
+Sometimes a motion ‘That the letter lie on the table’ is moved to prevent further action. This is not really effective because, if it is strictly interpreted, it means that the letter should be brought up at *every* subsequent meeting. It simply defers taking action. If the words ‘until called for’ are added to this motion, it even then does not dispose of the question entirely, but merely *suspends* judgement to a future date. At a future meeting any member could move that the letter be then considered. There would be no need to rescind the previous resolution. Unless it is genuinely desired to postpone consideration, it is better to move something definite. A similar point might also sometimes apply to the motion ‘That the letter be noted’, although this is primarily intended to record that the matter has been considered.
 
 ### Omnibus motions
 
@@ -44,7 +44,7 @@ Sometimes a motion consists of several clauses, each clause dealing with a separ
 
 One form of omnibus motion is the composite motion. This usually arises at national conferences of unions, the TUC and the Labour Party, when there may be several motions on the agenda dealing with the same subject and appearing to overlap one another. In such cases the movers of the motions will be called together for consultation by a body which is usually the Standing Orders (or Conference Arrangements) Committee. When this is done, the parties can usually agree to one comprehensive motion which, while it may not be identical with any of the several motions originally put forward, nevertheless contains sufficient of the policy of each to meet with general agreement.
 
-This means that the conference has only one motion to consider instead of several, which concentrates the debate on a single motion and avoids reptition. Movers of the separate motions usually arrange amongst themselves who will move the composite motion, and who will second and support it. If agreement cannot be reached among the movers about the form of the composite, any of them may insist that their own motion should be put to the conference separately in its original form.
+This means that the conference has only one motion to consider instead of several, which concentrates the debate on a single motion and avoids repetition. Movers of the separate motions usually arrange amongst themselves who will move the composite motion, and who will second and support it. If agreement cannot be reached among the movers about the form of the composite, any of them may insist that their own motion should be put to the conference separately in its original form.
 
 ### Motions should be in writing
 
@@ -52,7 +52,7 @@ The person who puts forward a motion is called the mover of the motion. Sometime
 
 This has a number of advantages. First, when writing out their motion the mover has more time to think out the exact wording they wish to use than when they merely get up and give it verbally. Certainly motions should be written out where an important decision has to be taken, because then every single word in a motion may be important. Again, a motion may sound well enough when first heard, but when examined carefully, errors may be detected that would never have occurred if the mover had taken the precaution to write the motion out. This will enable opponents to pick holes in the mover's argument.
 
-A further advantage of a written motion is that in most cases the secretary will be unable to take down the exact words the mover wants to appear in the motion. Usually they can get the substance only, and there are occassions when *every* word counts. The chair should insist upon a written motion if the subject matter is of vital importance.
+A further advantage of a written motion is that in most cases the secretary will be unable to take down the exact words the mover wants to appear in the motion. Usually they can get the substance only, and there are occasions when *every* word counts. The chair should insist upon a written motion if the subject matter is of vital importance.
 
 ### Make sure of the wording when motion not in writing
 
@@ -76,7 +76,7 @@ Members should inform the secretary well in advance of the next meeting that the
 
 ### Notice of important motions must be in writing
 
-However, ‘Any Other Business’ must not be used to bring forward far-reaching motions. This items is meant to allow the discussion of ordinary routine business. Important motions must never be discussed unless due notice has been given, particularly when it is some major policy matter, a question of altering one of the standing order or when money is involved. In such cases, all the members should be given the opportunity of considering it, and the chair should insist on notice being given.
+However, ‘Any Other Business’ must not be used to bring forward far-reaching motions. This item is meant to allow the discussion of ordinary routine business. Important motions must never be discussed unless due notice has been given, particularly when it is some major policy matter, a question of altering one of the standing orders or when money is involved. In such cases, all the members should be given the opportunity of considering it, and the chair should insist on notice being given.
 
 This is especially important where the funds of the society are concerned. Many bodies have rules that no money other than trivial sums can be granted to outside bodies from the funds unless notice of motion has been given. Furthermore, the notice of motion should state the sum which it is proposed should be granted.
 
@@ -90,7 +90,7 @@ After a member has given notice of motion they may sometimes want to alter it. I
 
 ### No radical alteration allowed
 
-But permission should never be given to alter a notice of motion, if the suggested alteration would materially change the policy of the motion. Even though the meeting may be willing to give consent, the chair should not allow it. Fresh notice must be given in the ordinary way; otherwise, it would destoy the whole purpose of giving notice of motion.
+But permission should never be given to alter a notice of motion, if the suggested alteration would materially change the policy of the motion. Even though the meeting may be willing to give consent, the chair should not allow it. Fresh notice must be given in the ordinary way; otherwise, it would destroy the whole purpose of giving notice of motion.
 
 ### Notice of amendment
 
@@ -106,7 +106,7 @@ The first motion which is brought forward on *any particular subject* is called 
 
 ### Motions must be moved and seconded
 
-All motions must be moved and seconded; this principle should be embodied in the standing orders. The person proposing the motion is called the mover, and the person seconding it is called the seconder of the motion. Both mover and seconder must be present to pur forward their motion. Very rarely, and only in the case of small committees, should the principle of having a seconder be dispensed with because it must be seen that an issue has at least some support to prevent the meeting's time being wasted.
+All motions must be moved and seconded; this principle should be embodied in the standing orders. The person proposing the motion is called the mover, and the person seconding it is called the seconder of the motion. Both mover and seconder must be present to put forward their motion. Very rarely, and only in the case of small committees, should the principle of having a seconder be dispensed with because it must be seen that an issue has at least some support to prevent the meeting's time being wasted.
 
 ### Relevance of motions
 
