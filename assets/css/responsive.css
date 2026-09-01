@@ -1,6 +1,8 @@
 @media (max-width: 700px) {
   body {
     overflow-x: hidden;
+    font-size: 16px;
+    line-height: 1.6;
   }
 
   body div.shell {
@@ -36,7 +38,7 @@
   }
 
   #main_content {
-    padding: 1.25rem clamp(1rem, 5vw, 2.5rem) 0;
+    padding: 1.25rem 1rem 0;
   }
 
   #main_content img,
