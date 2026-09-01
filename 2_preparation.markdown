@@ -82,7 +82,7 @@ Apart from letting everybody know what is to be discussed, this enables members 
 
 ### Emergency motions
 
-However, ‘Any Other Business’ can be used to bring forward emergency motions. Such motions must concern issues which have arisen *after the agenda has been prepared* and which are *genuinely urgent* – in other words, that action needs to be taken before the next meeting. If the chair is certain that the issue raised falls into this category (and experience suggests that most so-called emergency motions do not do so), they should take the emergency motion first under ‘Any Other Business’, allowing rather more time for it than would be usual under ‘Any Other Business’ as the subject will almost certaily be interesting and controversial. Like all other motions, emergency motions must be seconded (see [chapter 3](3_motions)).
+However, ‘Any Other Business’ can be used to bring forward emergency motions. Such motions must concern issues which have arisen *after the agenda has been prepared* and which are *genuinely urgent* – in other words, that action needs to be taken before the next meeting. If the chair is certain that the issue raised falls into this category (and experience suggests that most so-called emergency motions do not do so), they should take the emergency motion first under ‘Any Other Business’, allowing rather more time for it than would be usual under ‘Any Other Business’ as the subject will almost certainly be interesting and controversial. Like all other motions, emergency motions must be seconded (see [chapter 3](3_motions)).
 
 ### Items not on the agenda
 

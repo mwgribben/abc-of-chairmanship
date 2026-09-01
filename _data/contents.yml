@@ -5,10 +5,10 @@ pages:
   url: preface
 
 - title: Editors' Foreword
-  url: foreward
+  url: foreword
 
 - title: Web Editor's Foreword
-  url: new_foreward
+  url: new_foreword
 
 - title: "1 Introduction: the chair's role"
   url: 1_introduction
